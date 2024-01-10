@@ -1,0 +1,1601 @@
+"Notes"	"Residence State"	"Residence State Code"	"Year"	"Year Code"	"Multiple Cause of death"	"Multiple Cause of death Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2018"	"2018"	"Opium"	"T40.0"	0	4887871	Unreliable
+	"Alabama"	"01"	"2018"	"2018"	"Heroin"	"T40.1"	140	4887871	2.9
+	"Alabama"	"01"	"2018"	"2018"	"Other opioids"	"T40.2"	129	4887871	2.6
+	"Alabama"	"01"	"2018"	"2018"	"Methadone"	"T40.3"	35	4887871	0.7
+	"Alabama"	"01"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	150	4887871	3.1
+	"Alabama"	"01"	"2019"	"2019"	"Opium"	"T40.0"	0	4903185	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"Heroin"	"T40.1"	143	4903185	2.9
+	"Alabama"	"01"	"2019"	"2019"	"Other opioids"	"T40.2"	142	4903185	2.9
+	"Alabama"	"01"	"2019"	"2019"	"Methadone"	"T40.3"	33	4903185	0.7
+	"Alabama"	"01"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	215	4903185	4.4
+	"Alabama"	"01"	"2020"	"2020"	"Opium"	"T40.0"	0	4921532	Unreliable
+	"Alabama"	"01"	"2020"	"2020"	"Heroin"	"T40.1"	138	4921532	2.8
+	"Alabama"	"01"	"2020"	"2020"	"Other opioids"	"T40.2"	126	4921532	2.6
+	"Alabama"	"01"	"2020"	"2020"	"Methadone"	"T40.3"	27	4921532	0.5
+	"Alabama"	"01"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	450	4921532	9.1
+	"Alabama"	"01"	"2021"	"2021"	"Opium"	"T40.0"	0	5039877	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"Heroin"	"T40.1"	142	5039877	2.8
+	"Alabama"	"01"	"2021"	"2021"	"Other opioids"	"T40.2"	155	5039877	3.1
+	"Alabama"	"01"	"2021"	"2021"	"Methadone"	"T40.3"	36	5039877	0.7
+	"Alabama"	"01"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	860	5039877	17.1
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	5039877	Unreliable
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	47	5039877	0.9
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	156	5039877	3.1
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	32	5039877	0.6
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1000	5039877	19.8
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	5039877	Unreliable
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	31	5039877	0.6
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	93	5039877	1.8
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	12	5039877	Unreliable
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	660	5039877	13.1
+	"Alaska"	"02"	"2018"	"2018"	"Opium"	"T40.0"	0	737438	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	"Heroin"	"T40.1"	32	737438	4.3
+	"Alaska"	"02"	"2018"	"2018"	"Other opioids"	"T40.2"	41	737438	5.6
+	"Alaska"	"02"	"2018"	"2018"	"Methadone"	"T40.3"	13	737438	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	21	737438	2.8
+	"Alaska"	"02"	"2019"	"2019"	"Opium"	"T40.0"	0	731545	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	"Heroin"	"T40.1"	47	731545	6.4
+	"Alaska"	"02"	"2019"	"2019"	"Other opioids"	"T40.2"	51	731545	7.0
+	"Alaska"	"02"	"2019"	"2019"	"Methadone"	"T40.3"	14	731545	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	30	731545	4.1
+	"Alaska"	"02"	"2020"	"2020"	"Opium"	"T40.0"	0	731158	Unreliable
+	"Alaska"	"02"	"2020"	"2020"	"Heroin"	"T40.1"	37	731158	5.1
+	"Alaska"	"02"	"2020"	"2020"	"Other opioids"	"T40.2"	45	731158	6.2
+	"Alaska"	"02"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	731158	Suppressed
+	"Alaska"	"02"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	72	731158	9.8
+	"Alaska"	"02"	"2021"	"2021"	"Opium"	"T40.0"	0	732673	Unreliable
+	"Alaska"	"02"	"2021"	"2021"	"Heroin"	"T40.1"	69	732673	9.4
+	"Alaska"	"02"	"2021"	"2021"	"Other opioids"	"T40.2"	79	732673	10.8
+	"Alaska"	"02"	"2021"	"2021"	"Methadone"	"T40.3"	14	732673	Unreliable
+	"Alaska"	"02"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	164	732673	22.4
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	732673	Unreliable
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	42	732673	5.7
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	55	732673	7.5
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	10	732673	Unreliable
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	171	732673	23.3
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	732673	Unreliable
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	16	732673	Unreliable
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	30	732673	4.1
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	732673	Suppressed
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	164	732673	22.4
+	"Arizona"	"04"	"2018"	"2018"	"Opium"	"T40.0"	Suppressed	7171646	Suppressed
+	"Arizona"	"04"	"2018"	"2018"	"Heroin"	"T40.1"	362	7171646	5.0
+	"Arizona"	"04"	"2018"	"2018"	"Other opioids"	"T40.2"	336	7171646	4.7
+	"Arizona"	"04"	"2018"	"2018"	"Methadone"	"T40.3"	67	7171646	0.9
+	"Arizona"	"04"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	533	7171646	7.4
+	"Arizona"	"04"	"2019"	"2019"	"Opium"	"T40.0"	0	7278717	Unreliable
+	"Arizona"	"04"	"2019"	"2019"	"Heroin"	"T40.1"	278	7278717	3.8
+	"Arizona"	"04"	"2019"	"2019"	"Other opioids"	"T40.2"	323	7278717	4.4
+	"Arizona"	"04"	"2019"	"2019"	"Methadone"	"T40.3"	77	7278717	1.1
+	"Arizona"	"04"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	806	7278717	11.1
+	"Arizona"	"04"	"2020"	"2020"	"Opium"	"T40.0"	0	7421401	Unreliable
+	"Arizona"	"04"	"2020"	"2020"	"Heroin"	"T40.1"	225	7421401	3.0
+	"Arizona"	"04"	"2020"	"2020"	"Other opioids"	"T40.2"	342	7421401	4.6
+	"Arizona"	"04"	"2020"	"2020"	"Methadone"	"T40.3"	86	7421401	1.2
+	"Arizona"	"04"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1516	7421401	20.4
+	"Arizona"	"04"	"2021"	"2021"	"Opium"	"T40.0"	0	7276316	Unreliable
+	"Arizona"	"04"	"2021"	"2021"	"Heroin"	"T40.1"	116	7276316	1.6
+	"Arizona"	"04"	"2021"	"2021"	"Other opioids"	"T40.2"	279	7276316	3.8
+	"Arizona"	"04"	"2021"	"2021"	"Methadone"	"T40.3"	85	7276316	1.2
+	"Arizona"	"04"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1794	7276316	24.7
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	7276316	Unreliable
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	59	7276316	0.8
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	231	7276316	3.2
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	89	7276316	1.2
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1795	7276316	24.7
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	7276316	Unreliable
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	34	7276316	0.5
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	149	7276316	2.0
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	60	7276316	0.8
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1283	7276316	17.6
+	"Arkansas"	"05"	"2018"	"2018"	"Opium"	"T40.0"	0	3013825	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"Heroin"	"T40.1"	19	3013825	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"Other opioids"	"T40.2"	111	3013825	3.7
+	"Arkansas"	"05"	"2018"	"2018"	"Methadone"	"T40.3"	17	3013825	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	96	3013825	3.2
+	"Arkansas"	"05"	"2019"	"2019"	"Opium"	"T40.0"	0	3017804	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Heroin"	"T40.1"	33	3017804	1.1
+	"Arkansas"	"05"	"2019"	"2019"	"Other opioids"	"T40.2"	95	3017804	3.1
+	"Arkansas"	"05"	"2019"	"2019"	"Methadone"	"T40.3"	17	3017804	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	117	3017804	3.9
+	"Arkansas"	"05"	"2020"	"2020"	"Opium"	"T40.0"	0	3030522	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"Heroin"	"T40.1"	21	3030522	0.7
+	"Arkansas"	"05"	"2020"	"2020"	"Other opioids"	"T40.2"	99	3030522	3.3
+	"Arkansas"	"05"	"2020"	"2020"	"Methadone"	"T40.3"	16	3030522	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	198	3030522	6.5
+	"Arkansas"	"05"	"2021"	"2021"	"Opium"	"T40.0"	0	3025891	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Heroin"	"T40.1"	13	3025891	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Other opioids"	"T40.2"	104	3025891	3.4
+	"Arkansas"	"05"	"2021"	"2021"	"Methadone"	"T40.3"	14	3025891	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	315	3025891	10.4
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3025891	Unreliable
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	3025891	Suppressed
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	112	3025891	3.7
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	15	3025891	Unreliable
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	323	3025891	10.7
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3025891	Unreliable
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	3025891	Suppressed
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	41	3025891	1.4
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	3025891	Suppressed
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	144	3025891	4.8
+	"California"	"06"	"2018"	"2018"	"Opium"	"T40.0"	0	39557045	Unreliable
+	"California"	"06"	"2018"	"2018"	"Heroin"	"T40.1"	805	39557045	2.0
+	"California"	"06"	"2018"	"2018"	"Other opioids"	"T40.2"	977	39557045	2.5
+	"California"	"06"	"2018"	"2018"	"Methadone"	"T40.3"	250	39557045	0.6
+	"California"	"06"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	890	39557045	2.2
+	"California"	"06"	"2019"	"2019"	"Opium"	"T40.0"	Suppressed	39512223	Suppressed
+	"California"	"06"	"2019"	"2019"	"Heroin"	"T40.1"	988	39512223	2.5
+	"California"	"06"	"2019"	"2019"	"Other opioids"	"T40.2"	980	39512223	2.5
+	"California"	"06"	"2019"	"2019"	"Methadone"	"T40.3"	224	39512223	0.6
+	"California"	"06"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1704	39512223	4.3
+	"California"	"06"	"2020"	"2020"	"Opium"	"T40.0"	Suppressed	39368078	Suppressed
+	"California"	"06"	"2020"	"2020"	"Heroin"	"T40.1"	1032	39368078	2.6
+	"California"	"06"	"2020"	"2020"	"Other opioids"	"T40.2"	1047	39368078	2.7
+	"California"	"06"	"2020"	"2020"	"Methadone"	"T40.3"	281	39368078	0.7
+	"California"	"06"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	4063	39368078	10.3
+	"California"	"06"	"2021"	"2021"	"Opium"	"T40.0"	0	39237836	Unreliable
+	"California"	"06"	"2021"	"2021"	"Heroin"	"T40.1"	798	39237836	2.0
+	"California"	"06"	"2021"	"2021"	"Other opioids"	"T40.2"	1096	39237836	2.8
+	"California"	"06"	"2021"	"2021"	"Methadone"	"T40.3"	283	39237836	0.7
+	"California"	"06"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	6136	39237836	15.6
+	"California"	"06"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	39237836	Unreliable
+	"California"	"06"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	521	39237836	1.3
+	"California"	"06"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	1008	39237836	2.6
+	"California"	"06"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	229	39237836	0.6
+	"California"	"06"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	6665	39237836	17.0
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	39237836	Unreliable
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	205	39237836	0.5
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	489	39237836	1.2
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	157	39237836	0.4
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	4339	39237836	11.1
+	"Colorado"	"08"	"2018"	"2018"	"Opium"	"T40.0"	0	5695564	Unreliable
+	"Colorado"	"08"	"2018"	"2018"	"Heroin"	"T40.1"	243	5695564	4.3
+	"Colorado"	"08"	"2018"	"2018"	"Other opioids"	"T40.2"	240	5695564	4.2
+	"Colorado"	"08"	"2018"	"2018"	"Methadone"	"T40.3"	58	5695564	1.0
+	"Colorado"	"08"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	140	5695564	2.5
+	"Colorado"	"08"	"2019"	"2019"	"Opium"	"T40.0"	0	5758736	Unreliable
+	"Colorado"	"08"	"2019"	"2019"	"Heroin"	"T40.1"	225	5758736	3.9
+	"Colorado"	"08"	"2019"	"2019"	"Other opioids"	"T40.2"	258	5758736	4.5
+	"Colorado"	"08"	"2019"	"2019"	"Methadone"	"T40.3"	40	5758736	0.7
+	"Colorado"	"08"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	261	5758736	4.5
+	"Colorado"	"08"	"2020"	"2020"	"Opium"	"T40.0"	0	5807719	Unreliable
+	"Colorado"	"08"	"2020"	"2020"	"Heroin"	"T40.1"	225	5807719	3.9
+	"Colorado"	"08"	"2020"	"2020"	"Other opioids"	"T40.2"	278	5807719	4.8
+	"Colorado"	"08"	"2020"	"2020"	"Methadone"	"T40.3"	70	5807719	1.2
+	"Colorado"	"08"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	603	5807719	10.4
+	"Colorado"	"08"	"2021"	"2021"	"Opium"	"T40.0"	0	5812069	Unreliable
+	"Colorado"	"08"	"2021"	"2021"	"Heroin"	"T40.1"	200	5812069	3.4
+	"Colorado"	"08"	"2021"	"2021"	"Other opioids"	"T40.2"	303	5812069	5.2
+	"Colorado"	"08"	"2021"	"2021"	"Methadone"	"T40.3"	59	5812069	1.0
+	"Colorado"	"08"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1005	5812069	17.3
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	5812069	Unreliable
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	71	5812069	1.2
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	231	5812069	4.0
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	62	5812069	1.1
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1005	5812069	17.3
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	5812069	Unreliable
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	25	5812069	0.4
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	137	5812069	2.4
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	28	5812069	0.5
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	780	5812069	13.4
+	"Connecticut"	"09"	"2018"	"2018"	"Opium"	"T40.0"	0	3572665	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"Heroin"	"T40.1"	340	3572665	9.5
+	"Connecticut"	"09"	"2018"	"2018"	"Other opioids"	"T40.2"	164	3572665	4.6
+	"Connecticut"	"09"	"2018"	"2018"	"Methadone"	"T40.3"	84	3572665	2.4
+	"Connecticut"	"09"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	773	3572665	21.6
+	"Connecticut"	"09"	"2019"	"2019"	"Opium"	"T40.0"	0	3565287	Unreliable
+	"Connecticut"	"09"	"2019"	"2019"	"Heroin"	"T40.1"	342	3565287	9.6
+	"Connecticut"	"09"	"2019"	"2019"	"Other opioids"	"T40.2"	212	3565287	5.9
+	"Connecticut"	"09"	"2019"	"2019"	"Methadone"	"T40.3"	89	3565287	2.5
+	"Connecticut"	"09"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	960	3565287	26.9
+	"Connecticut"	"09"	"2020"	"2020"	"Opium"	"T40.0"	0	3557006	Unreliable
+	"Connecticut"	"09"	"2020"	"2020"	"Heroin"	"T40.1"	211	3557006	5.9
+	"Connecticut"	"09"	"2020"	"2020"	"Other opioids"	"T40.2"	219	3557006	6.2
+	"Connecticut"	"09"	"2020"	"2020"	"Methadone"	"T40.3"	114	3557006	3.2
+	"Connecticut"	"09"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1150	3557006	32.3
+	"Connecticut"	"09"	"2021"	"2021"	"Opium"	"T40.0"	0	3605597	Unreliable
+	"Connecticut"	"09"	"2021"	"2021"	"Heroin"	"T40.1"	119	3605597	3.3
+	"Connecticut"	"09"	"2021"	"2021"	"Other opioids"	"T40.2"	190	3605597	5.3
+	"Connecticut"	"09"	"2021"	"2021"	"Methadone"	"T40.3"	129	3605597	3.6
+	"Connecticut"	"09"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1294	3605597	35.9
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3605597	Unreliable
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	97	3605597	2.7
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	200	3605597	5.5
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	125	3605597	3.5
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1264	3605597	35.1
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3605597	Unreliable
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	55	3605597	1.5
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	105	3605597	2.9
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	86	3605597	2.4
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	773	3605597	21.4
+	"Delaware"	"10"	"2018"	"2018"	"Opium"	"T40.0"	0	967171	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Heroin"	"T40.1"	143	967171	14.8
+	"Delaware"	"10"	"2018"	"2018"	"Other opioids"	"T40.2"	63	967171	6.5
+	"Delaware"	"10"	"2018"	"2018"	"Methadone"	"T40.3"	26	967171	2.7
+	"Delaware"	"10"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	297	967171	30.7
+	"Delaware"	"10"	"2019"	"2019"	"Opium"	"T40.0"	0	973764	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Heroin"	"T40.1"	109	973764	11.2
+	"Delaware"	"10"	"2019"	"2019"	"Other opioids"	"T40.2"	54	973764	5.5
+	"Delaware"	"10"	"2019"	"2019"	"Methadone"	"T40.3"	28	973764	2.9
+	"Delaware"	"10"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	343	973764	35.2
+	"Delaware"	"10"	"2020"	"2020"	"Opium"	"T40.0"	0	986809	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"Heroin"	"T40.1"	91	986809	9.2
+	"Delaware"	"10"	"2020"	"2020"	"Other opioids"	"T40.2"	53	986809	5.4
+	"Delaware"	"10"	"2020"	"2020"	"Methadone"	"T40.3"	35	986809	3.5
+	"Delaware"	"10"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	364	986809	36.9
+	"Delaware"	"10"	"2021"	"2021"	"Opium"	"T40.0"	0	1003384	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"Heroin"	"T40.1"	67	1003384	6.7
+	"Delaware"	"10"	"2021"	"2021"	"Other opioids"	"T40.2"	51	1003384	5.1
+	"Delaware"	"10"	"2021"	"2021"	"Methadone"	"T40.3"	38	1003384	3.8
+	"Delaware"	"10"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	415	1003384	41.4
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1003384	Unreliable
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	54	1003384	5.4
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	40	1003384	4.0
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	32	1003384	3.2
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	460	1003384	45.8
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1003384	Unreliable
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	11	1003384	Unreliable
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	18	1003384	Unreliable
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	21	1003384	2.1
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	274	1003384	27.3
+	"District of Columbia"	"11"	"2018"	"2018"	"Opium"	"T40.0"	0	702455	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"Heroin"	"T40.1"	80	702455	11.4
+	"District of Columbia"	"11"	"2018"	"2018"	"Other opioids"	"T40.2"	32	702455	4.6
+	"District of Columbia"	"11"	"2018"	"2018"	"Methadone"	"T40.3"	10	702455	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	162	702455	23.1
+	"District of Columbia"	"11"	"2019"	"2019"	"Opium"	"T40.0"	0	705749	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Heroin"	"T40.1"	88	705749	12.5
+	"District of Columbia"	"11"	"2019"	"2019"	"Other opioids"	"T40.2"	24	705749	3.4
+	"District of Columbia"	"11"	"2019"	"2019"	"Methadone"	"T40.3"	16	705749	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	220	705749	31.2
+	"District of Columbia"	"11"	"2020"	"2020"	"Opium"	"T40.0"	0	712816	Unreliable
+	"District of Columbia"	"11"	"2020"	"2020"	"Heroin"	"T40.1"	88	712816	12.3
+	"District of Columbia"	"11"	"2020"	"2020"	"Other opioids"	"T40.2"	37	712816	5.2
+	"District of Columbia"	"11"	"2020"	"2020"	"Methadone"	"T40.3"	32	712816	4.5
+	"District of Columbia"	"11"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	318	712816	44.6
+	"District of Columbia"	"11"	"2021"	"2021"	"Opium"	"T40.0"	0	670050	Unreliable
+	"District of Columbia"	"11"	"2021"	"2021"	"Heroin"	"T40.1"	50	670050	7.5
+	"District of Columbia"	"11"	"2021"	"2021"	"Other opioids"	"T40.2"	27	670050	4.0
+	"District of Columbia"	"11"	"2021"	"2021"	"Methadone"	"T40.3"	22	670050	3.3
+	"District of Columbia"	"11"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	334	670050	49.8
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	670050	Unreliable
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	41	670050	6.1
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	33	670050	4.9
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	22	670050	3.3
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	329	670050	49.1
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	670050	Unreliable
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	31	670050	4.6
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	11	670050	Unreliable
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	670050	Suppressed
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	195	670050	29.1
+	"Florida"	"12"	"2018"	"2018"	"Opium"	"T40.0"	0	21299325	Unreliable
+	"Florida"	"12"	"2018"	"2018"	"Heroin"	"T40.1"	692	21299325	3.2
+	"Florida"	"12"	"2018"	"2018"	"Other opioids"	"T40.2"	1187	21299325	5.6
+	"Florida"	"12"	"2018"	"2018"	"Methadone"	"T40.3"	192	21299325	0.9
+	"Florida"	"12"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	2121	21299325	10.0
+	"Florida"	"12"	"2019"	"2019"	"Opium"	"T40.0"	0	21477737	Unreliable
+	"Florida"	"12"	"2019"	"2019"	"Heroin"	"T40.1"	704	21477737	3.3
+	"Florida"	"12"	"2019"	"2019"	"Other opioids"	"T40.2"	1125	21477737	5.2
+	"Florida"	"12"	"2019"	"2019"	"Methadone"	"T40.3"	146	21477737	0.7
+	"Florida"	"12"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	2858	21477737	13.3
+	"Florida"	"12"	"2020"	"2020"	"Opium"	"T40.0"	0	21733312	Unreliable
+	"Florida"	"12"	"2020"	"2020"	"Heroin"	"T40.1"	645	21733312	3.0
+	"Florida"	"12"	"2020"	"2020"	"Other opioids"	"T40.2"	1142	21733312	5.3
+	"Florida"	"12"	"2020"	"2020"	"Methadone"	"T40.3"	189	21733312	0.9
+	"Florida"	"12"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	4788	21733312	22.0
+	"Florida"	"12"	"2021"	"2021"	"Opium"	"T40.0"	0	21781128	Unreliable
+	"Florida"	"12"	"2021"	"2021"	"Heroin"	"T40.1"	363	21781128	1.7
+	"Florida"	"12"	"2021"	"2021"	"Other opioids"	"T40.2"	1068	21781128	4.9
+	"Florida"	"12"	"2021"	"2021"	"Methadone"	"T40.3"	175	21781128	0.8
+	"Florida"	"12"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	5439	21781128	25.0
+	"Florida"	"12"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	21781128	Unreliable
+	"Florida"	"12"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	171	21781128	0.8
+	"Florida"	"12"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	936	21781128	4.3
+	"Florida"	"12"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	154	21781128	0.7
+	"Florida"	"12"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	5178	21781128	23.8
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	21781128	Unreliable
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	58	21781128	0.3
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	556	21781128	2.6
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	87	21781128	0.4
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	3080	21781128	14.1
+	"Georgia"	"13"	"2018"	"2018"	"Opium"	"T40.0"	0	10519475	Unreliable
+	"Georgia"	"13"	"2018"	"2018"	"Heroin"	"T40.1"	301	10519475	2.9
+	"Georgia"	"13"	"2018"	"2018"	"Other opioids"	"T40.2"	423	10519475	4.0
+	"Georgia"	"13"	"2018"	"2018"	"Methadone"	"T40.3"	87	10519475	0.8
+	"Georgia"	"13"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	360	10519475	3.4
+	"Georgia"	"13"	"2019"	"2019"	"Opium"	"T40.0"	0	10617423	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"Heroin"	"T40.1"	305	10617423	2.9
+	"Georgia"	"13"	"2019"	"2019"	"Other opioids"	"T40.2"	391	10617423	3.7
+	"Georgia"	"13"	"2019"	"2019"	"Methadone"	"T40.3"	65	10617423	0.6
+	"Georgia"	"13"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	426	10617423	4.0
+	"Georgia"	"13"	"2020"	"2020"	"Opium"	"T40.0"	0	10710017	Unreliable
+	"Georgia"	"13"	"2020"	"2020"	"Heroin"	"T40.1"	397	10710017	3.7
+	"Georgia"	"13"	"2020"	"2020"	"Other opioids"	"T40.2"	463	10710017	4.3
+	"Georgia"	"13"	"2020"	"2020"	"Methadone"	"T40.3"	80	10710017	0.7
+	"Georgia"	"13"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	914	10710017	8.5
+	"Georgia"	"13"	"2021"	"2021"	"Opium"	"T40.0"	0	10799566	Unreliable
+	"Georgia"	"13"	"2021"	"2021"	"Heroin"	"T40.1"	324	10799566	3.0
+	"Georgia"	"13"	"2021"	"2021"	"Other opioids"	"T40.2"	517	10799566	4.8
+	"Georgia"	"13"	"2021"	"2021"	"Methadone"	"T40.3"	73	10799566	0.7
+	"Georgia"	"13"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1471	10799566	13.6
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	10799566	Unreliable
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	156	10799566	1.4
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	500	10799566	4.6
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	59	10799566	0.5
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1752	10799566	16.2
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	10799566	Unreliable
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	70	10799566	0.6
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	220	10799566	2.0
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	33	10799566	0.3
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1017	10799566	9.4
+	"Hawaii"	"15"	"2018"	"2018"	"Opium"	"T40.0"	0	1420491	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"Heroin"	"T40.1"	16	1420491	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"Other opioids"	"T40.2"	28	1420491	2.0
+	"Hawaii"	"15"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	1420491	Suppressed
+	"Hawaii"	"15"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	14	1420491	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"Opium"	"T40.0"	0	1415872	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"Heroin"	"T40.1"	19	1415872	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"Other opioids"	"T40.2"	24	1415872	1.7
+	"Hawaii"	"15"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	1415872	Suppressed
+	"Hawaii"	"15"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	20	1415872	1.4
+	"Hawaii"	"15"	"2020"	"2020"	"Opium"	"T40.0"	0	1407006	Unreliable
+	"Hawaii"	"15"	"2020"	"2020"	"Heroin"	"T40.1"	22	1407006	1.6
+	"Hawaii"	"15"	"2020"	"2020"	"Other opioids"	"T40.2"	28	1407006	2.0
+	"Hawaii"	"15"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	1407006	Suppressed
+	"Hawaii"	"15"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	37	1407006	2.6
+	"Hawaii"	"15"	"2021"	"2021"	"Opium"	"T40.0"	0	1441553	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"Heroin"	"T40.1"	18	1441553	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"Other opioids"	"T40.2"	31	1441553	2.2
+	"Hawaii"	"15"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	1441553	Suppressed
+	"Hawaii"	"15"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	53	1441553	3.7
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1441553	Unreliable
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	11	1441553	Unreliable
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	25	1441553	1.7
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	11	1441553	Unreliable
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	82	1441553	5.7
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1441553	Unreliable
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	10	1441553	Unreliable
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	Suppressed	1441553	Suppressed
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	1441553	Suppressed
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	69	1441553	4.8
+	"Idaho"	"16"	"2018"	"2018"	"Opium"	"T40.0"	0	1754208	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"Heroin"	"T40.1"	29	1754208	1.7
+	"Idaho"	"16"	"2018"	"2018"	"Other opioids"	"T40.2"	72	1754208	4.1
+	"Idaho"	"16"	"2018"	"2018"	"Methadone"	"T40.3"	10	1754208	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	28	1754208	1.6
+	"Idaho"	"16"	"2019"	"2019"	"Opium"	"T40.0"	0	1787065	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"Heroin"	"T40.1"	40	1787065	2.2
+	"Idaho"	"16"	"2019"	"2019"	"Other opioids"	"T40.2"	79	1787065	4.4
+	"Idaho"	"16"	"2019"	"2019"	"Methadone"	"T40.3"	11	1787065	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	33	1787065	1.8
+	"Idaho"	"16"	"2020"	"2020"	"Opium"	"T40.0"	0	1826913	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"Heroin"	"T40.1"	38	1826913	2.1
+	"Idaho"	"16"	"2020"	"2020"	"Other opioids"	"T40.2"	85	1826913	4.7
+	"Idaho"	"16"	"2020"	"2020"	"Methadone"	"T40.3"	13	1826913	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	59	1826913	3.2
+	"Idaho"	"16"	"2021"	"2021"	"Opium"	"T40.0"	0	1900923	Unreliable
+	"Idaho"	"16"	"2021"	"2021"	"Heroin"	"T40.1"	23	1900923	1.2
+	"Idaho"	"16"	"2021"	"2021"	"Other opioids"	"T40.2"	93	1900923	4.9
+	"Idaho"	"16"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	1900923	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	165	1900923	8.7
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1900923	Unreliable
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	11	1900923	Unreliable
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	75	1900923	3.9
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	14	1900923	Unreliable
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	202	1900923	10.6
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1900923	Unreliable
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	1900923	Suppressed
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	40	1900923	2.1
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	1900923	Suppressed
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	146	1900923	7.7
+	"Illinois"	"17"	"2018"	"2018"	"Opium"	"T40.0"	Suppressed	12741080	Suppressed
+	"Illinois"	"17"	"2018"	"2018"	"Heroin"	"T40.1"	1064	12741080	8.4
+	"Illinois"	"17"	"2018"	"2018"	"Other opioids"	"T40.2"	423	12741080	3.3
+	"Illinois"	"17"	"2018"	"2018"	"Methadone"	"T40.3"	160	12741080	1.3
+	"Illinois"	"17"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	1592	12741080	12.5
+	"Illinois"	"17"	"2019"	"2019"	"Opium"	"T40.0"	0	12671821	Unreliable
+	"Illinois"	"17"	"2019"	"2019"	"Heroin"	"T40.1"	994	12671821	7.8
+	"Illinois"	"17"	"2019"	"2019"	"Other opioids"	"T40.2"	442	12671821	3.5
+	"Illinois"	"17"	"2019"	"2019"	"Methadone"	"T40.3"	149	12671821	1.2
+	"Illinois"	"17"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1741	12671821	13.7
+	"Illinois"	"17"	"2020"	"2020"	"Opium"	"T40.0"	Suppressed	12587530	Suppressed
+	"Illinois"	"17"	"2020"	"2020"	"Heroin"	"T40.1"	1071	12587530	8.5
+	"Illinois"	"17"	"2020"	"2020"	"Other opioids"	"T40.2"	536	12587530	4.3
+	"Illinois"	"17"	"2020"	"2020"	"Methadone"	"T40.3"	224	12587530	1.8
+	"Illinois"	"17"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	2513	12587530	20.0
+	"Illinois"	"17"	"2021"	"2021"	"Opium"	"T40.0"	0	12671469	Unreliable
+	"Illinois"	"17"	"2021"	"2021"	"Heroin"	"T40.1"	779	12671469	6.1
+	"Illinois"	"17"	"2021"	"2021"	"Other opioids"	"T40.2"	520	12671469	4.1
+	"Illinois"	"17"	"2021"	"2021"	"Methadone"	"T40.3"	175	12671469	1.4
+	"Illinois"	"17"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2746	12671469	21.7
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	12671469	Unreliable
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	540	12671469	4.3
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	438	12671469	3.5
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	154	12671469	1.2
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2944	12671469	23.2
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	12671469	Unreliable
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	270	12671469	2.1
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	250	12671469	2.0
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	109	12671469	0.9
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1760	12671469	13.9
+	"Indiana"	"18"	"2018"	"2018"	"Opium"	"T40.0"	0	6691878	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"Heroin"	"T40.1"	316	6691878	4.7
+	"Indiana"	"18"	"2018"	"2018"	"Other opioids"	"T40.2"	343	6691878	5.1
+	"Indiana"	"18"	"2018"	"2018"	"Methadone"	"T40.3"	60	6691878	0.9
+	"Indiana"	"18"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	728	6691878	10.9
+	"Indiana"	"18"	"2019"	"2019"	"Opium"	"T40.0"	0	6732219	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"Heroin"	"T40.1"	313	6732219	4.6
+	"Indiana"	"18"	"2019"	"2019"	"Other opioids"	"T40.2"	366	6732219	5.4
+	"Indiana"	"18"	"2019"	"2019"	"Methadone"	"T40.3"	56	6732219	0.8
+	"Indiana"	"18"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	926	6732219	13.8
+	"Indiana"	"18"	"2020"	"2020"	"Opium"	"T40.0"	0	6754953	Unreliable
+	"Indiana"	"18"	"2020"	"2020"	"Heroin"	"T40.1"	219	6754953	3.2
+	"Indiana"	"18"	"2020"	"2020"	"Other opioids"	"T40.2"	439	6754953	6.5
+	"Indiana"	"18"	"2020"	"2020"	"Methadone"	"T40.3"	51	6754953	0.8
+	"Indiana"	"18"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1708	6754953	25.3
+	"Indiana"	"18"	"2021"	"2021"	"Opium"	"T40.0"	0	6805985	Unreliable
+	"Indiana"	"18"	"2021"	"2021"	"Heroin"	"T40.1"	93	6805985	1.4
+	"Indiana"	"18"	"2021"	"2021"	"Other opioids"	"T40.2"	461	6805985	6.8
+	"Indiana"	"18"	"2021"	"2021"	"Methadone"	"T40.3"	62	6805985	0.9
+	"Indiana"	"18"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2048	6805985	30.1
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	6805985	Unreliable
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	64	6805985	0.9
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	343	6805985	5.0
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	44	6805985	0.6
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1955	6805985	28.7
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	6805985	Unreliable
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	30	6805985	0.4
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	148	6805985	2.2
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	33	6805985	0.5
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1153	6805985	16.9
+	"Iowa"	"19"	"2018"	"2018"	"Opium"	"T40.0"	0	3156145	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"Heroin"	"T40.1"	37	3156145	1.2
+	"Iowa"	"19"	"2018"	"2018"	"Other opioids"	"T40.2"	59	3156145	1.9
+	"Iowa"	"19"	"2018"	"2018"	"Methadone"	"T40.3"	10	3156145	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	83	3156145	2.6
+	"Iowa"	"19"	"2019"	"2019"	"Opium"	"T40.0"	0	3155070	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"Heroin"	"T40.1"	45	3155070	1.4
+	"Iowa"	"19"	"2019"	"2019"	"Other opioids"	"T40.2"	62	3155070	2.0
+	"Iowa"	"19"	"2019"	"2019"	"Methadone"	"T40.3"	13	3155070	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	104	3155070	3.3
+	"Iowa"	"19"	"2020"	"2020"	"Opium"	"T40.0"	0	3163561	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"Heroin"	"T40.1"	55	3163561	1.7
+	"Iowa"	"19"	"2020"	"2020"	"Other opioids"	"T40.2"	59	3163561	1.9
+	"Iowa"	"19"	"2020"	"2020"	"Methadone"	"T40.3"	14	3163561	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	178	3163561	5.6
+	"Iowa"	"19"	"2021"	"2021"	"Opium"	"T40.0"	0	3193079	Unreliable
+	"Iowa"	"19"	"2021"	"2021"	"Heroin"	"T40.1"	39	3193079	1.2
+	"Iowa"	"19"	"2021"	"2021"	"Other opioids"	"T40.2"	68	3193079	2.1
+	"Iowa"	"19"	"2021"	"2021"	"Methadone"	"T40.3"	17	3193079	Unreliable
+	"Iowa"	"19"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	213	3193079	6.7
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3193079	Unreliable
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	27	3193079	0.8
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	57	3193079	1.8
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	Suppressed	3193079	Suppressed
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	204	3193079	6.4
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3193079	Unreliable
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	3193079	Suppressed
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	44	3193079	1.4
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	3193079	Suppressed
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	150	3193079	4.7
+	"Kansas"	"20"	"2018"	"2018"	"Opium"	"T40.0"	0	2911505	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"Heroin"	"T40.1"	33	2911505	1.1
+	"Kansas"	"20"	"2018"	"2018"	"Other opioids"	"T40.2"	82	2911505	2.8
+	"Kansas"	"20"	"2018"	"2018"	"Methadone"	"T40.3"	16	2911505	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	52	2911505	1.8
+	"Kansas"	"20"	"2019"	"2019"	"Opium"	"T40.0"	0	2913314	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"Heroin"	"T40.1"	44	2913314	1.5
+	"Kansas"	"20"	"2019"	"2019"	"Other opioids"	"T40.2"	80	2913314	2.7
+	"Kansas"	"20"	"2019"	"2019"	"Methadone"	"T40.3"	18	2913314	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	75	2913314	2.6
+	"Kansas"	"20"	"2020"	"2020"	"Opium"	"T40.0"	0	2913805	Unreliable
+	"Kansas"	"20"	"2020"	"2020"	"Heroin"	"T40.1"	38	2913805	1.3
+	"Kansas"	"20"	"2020"	"2020"	"Other opioids"	"T40.2"	86	2913805	3.0
+	"Kansas"	"20"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	2913805	Suppressed
+	"Kansas"	"20"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	169	2913805	5.8
+	"Kansas"	"20"	"2021"	"2021"	"Opium"	"T40.0"	0	2934582	Unreliable
+	"Kansas"	"20"	"2021"	"2021"	"Heroin"	"T40.1"	37	2934582	1.3
+	"Kansas"	"20"	"2021"	"2021"	"Other opioids"	"T40.2"	113	2934582	3.9
+	"Kansas"	"20"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	2934582	Suppressed
+	"Kansas"	"20"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	358	2934582	12.2
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	2934582	Unreliable
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	17	2934582	Unreliable
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	132	2934582	4.5
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	19	2934582	Unreliable
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	431	2934582	14.7
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	2934582	Unreliable
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	2934582	Suppressed
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	51	2934582	1.7
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	12	2934582	Unreliable
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	222	2934582	7.6
+	"Kentucky"	"21"	"2018"	"2018"	"Opium"	"T40.0"	0	4468402	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"Heroin"	"T40.1"	140	4468402	3.1
+	"Kentucky"	"21"	"2018"	"2018"	"Other opioids"	"T40.2"	303	4468402	6.8
+	"Kentucky"	"21"	"2018"	"2018"	"Methadone"	"T40.3"	39	4468402	0.9
+	"Kentucky"	"21"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	753	4468402	16.9
+	"Kentucky"	"21"	"2019"	"2019"	"Opium"	"T40.0"	0	4467673	Unreliable
+	"Kentucky"	"21"	"2019"	"2019"	"Heroin"	"T40.1"	153	4467673	3.4
+	"Kentucky"	"21"	"2019"	"2019"	"Other opioids"	"T40.2"	334	4467673	7.5
+	"Kentucky"	"21"	"2019"	"2019"	"Methadone"	"T40.3"	30	4467673	0.7
+	"Kentucky"	"21"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	837	4467673	18.7
+	"Kentucky"	"21"	"2020"	"2020"	"Opium"	"T40.0"	0	4477251	Unreliable
+	"Kentucky"	"21"	"2020"	"2020"	"Heroin"	"T40.1"	122	4477251	2.7
+	"Kentucky"	"21"	"2020"	"2020"	"Other opioids"	"T40.2"	454	4477251	10.1
+	"Kentucky"	"21"	"2020"	"2020"	"Methadone"	"T40.3"	46	4477251	1.0
+	"Kentucky"	"21"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1533	4477251	34.2
+	"Kentucky"	"21"	"2021"	"2021"	"Opium"	"T40.0"	0	4509394	Unreliable
+	"Kentucky"	"21"	"2021"	"2021"	"Heroin"	"T40.1"	61	4509394	1.4
+	"Kentucky"	"21"	"2021"	"2021"	"Other opioids"	"T40.2"	417	4509394	9.2
+	"Kentucky"	"21"	"2021"	"2021"	"Methadone"	"T40.3"	41	4509394	0.9
+	"Kentucky"	"21"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1737	4509394	38.5
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	4509394	Unreliable
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	35	4509394	0.8
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	340	4509394	7.5
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	31	4509394	0.7
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1634	4509394	36.2
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	4509394	Unreliable
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	18	4509394	Unreliable
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	212	4509394	4.7
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	41	4509394	0.9
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1142	4509394	25.3
+	"Louisiana"	"22"	"2018"	"2018"	"Opium"	"T40.0"	0	4659978	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Heroin"	"T40.1"	173	4659978	3.7
+	"Louisiana"	"22"	"2018"	"2018"	"Other opioids"	"T40.2"	145	4659978	3.1
+	"Louisiana"	"22"	"2018"	"2018"	"Methadone"	"T40.3"	18	4659978	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	220	4659978	4.7
+	"Louisiana"	"22"	"2019"	"2019"	"Opium"	"T40.0"	0	4648794	Unreliable
+	"Louisiana"	"22"	"2019"	"2019"	"Heroin"	"T40.1"	224	4648794	4.8
+	"Louisiana"	"22"	"2019"	"2019"	"Other opioids"	"T40.2"	186	4648794	4.0
+	"Louisiana"	"22"	"2019"	"2019"	"Methadone"	"T40.3"	24	4648794	0.5
+	"Louisiana"	"22"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	331	4648794	7.1
+	"Louisiana"	"22"	"2020"	"2020"	"Opium"	"T40.0"	0	4645318	Unreliable
+	"Louisiana"	"22"	"2020"	"2020"	"Heroin"	"T40.1"	268	4645318	5.8
+	"Louisiana"	"22"	"2020"	"2020"	"Other opioids"	"T40.2"	267	4645318	5.7
+	"Louisiana"	"22"	"2020"	"2020"	"Methadone"	"T40.3"	29	4645318	0.6
+	"Louisiana"	"22"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	719	4645318	15.5
+	"Louisiana"	"22"	"2021"	"2021"	"Opium"	"T40.0"	0	4624047	Unreliable
+	"Louisiana"	"22"	"2021"	"2021"	"Heroin"	"T40.1"	160	4624047	3.5
+	"Louisiana"	"22"	"2021"	"2021"	"Other opioids"	"T40.2"	297	4624047	6.4
+	"Louisiana"	"22"	"2021"	"2021"	"Methadone"	"T40.3"	38	4624047	0.8
+	"Louisiana"	"22"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1203	4624047	26.0
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	4624047	Unreliable
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	54	4624047	1.2
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	296	4624047	6.4
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	33	4624047	0.7
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1226	4624047	26.5
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	4624047	Unreliable
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	46	4624047	1.0
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	130	4624047	2.8
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	19	4624047	Unreliable
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	716	4624047	15.5
+	"Maine"	"23"	"2018"	"2018"	"Opium"	"T40.0"	0	1338404	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"Heroin"	"T40.1"	71	1338404	5.3
+	"Maine"	"23"	"2018"	"2018"	"Other opioids"	"T40.2"	57	1338404	4.3
+	"Maine"	"23"	"2018"	"2018"	"Methadone"	"T40.3"	19	1338404	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	234	1338404	17.5
+	"Maine"	"23"	"2019"	"2019"	"Opium"	"T40.0"	0	1344212	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"Heroin"	"T40.1"	58	1344212	4.3
+	"Maine"	"23"	"2019"	"2019"	"Other opioids"	"T40.2"	50	1344212	3.7
+	"Maine"	"23"	"2019"	"2019"	"Methadone"	"T40.3"	25	1344212	1.9
+	"Maine"	"23"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	285	1344212	21.2
+	"Maine"	"23"	"2020"	"2020"	"Opium"	"T40.0"	0	1350141	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"Heroin"	"T40.1"	52	1350141	3.9
+	"Maine"	"23"	"2020"	"2020"	"Other opioids"	"T40.2"	75	1350141	5.6
+	"Maine"	"23"	"2020"	"2020"	"Methadone"	"T40.3"	27	1350141	2.0
+	"Maine"	"23"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	370	1350141	27.4
+	"Maine"	"23"	"2021"	"2021"	"Opium"	"T40.0"	0	1372247	Unreliable
+	"Maine"	"23"	"2021"	"2021"	"Heroin"	"T40.1"	21	1372247	1.5
+	"Maine"	"23"	"2021"	"2021"	"Other opioids"	"T40.2"	72	1372247	5.2
+	"Maine"	"23"	"2021"	"2021"	"Methadone"	"T40.3"	38	1372247	2.8
+	"Maine"	"23"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	501	1372247	36.5
+	"Maine"	"23"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1372247	Unreliable
+	"Maine"	"23"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	19	1372247	Unreliable
+	"Maine"	"23"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	84	1372247	6.1
+	"Maine"	"23"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	45	1372247	3.3
+	"Maine"	"23"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	578	1372247	42.1
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1372247	Unreliable
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	11	1372247	Unreliable
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	44	1372247	3.2
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	24	1372247	1.7
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	369	1372247	26.9
+	"Maryland"	"24"	"2018"	"2018"	"Opium"	"T40.0"	0	6042718	Unreliable
+	"Maryland"	"24"	"2018"	"2018"	"Heroin"	"T40.1"	358	6042718	5.9
+	"Maryland"	"24"	"2018"	"2018"	"Other opioids"	"T40.2"	433	6042718	7.2
+	"Maryland"	"24"	"2018"	"2018"	"Methadone"	"T40.3"	196	6042718	3.2
+	"Maryland"	"24"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	1846	6042718	30.5
+	"Maryland"	"24"	"2019"	"2019"	"Opium"	"T40.0"	0	6045680	Unreliable
+	"Maryland"	"24"	"2019"	"2019"	"Heroin"	"T40.1"	211	6045680	3.5
+	"Maryland"	"24"	"2019"	"2019"	"Other opioids"	"T40.2"	446	6045680	7.4
+	"Maryland"	"24"	"2019"	"2019"	"Methadone"	"T40.3"	193	6045680	3.2
+	"Maryland"	"24"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1941	6045680	32.1
+	"Maryland"	"24"	"2020"	"2020"	"Opium"	"T40.0"	0	6055802	Unreliable
+	"Maryland"	"24"	"2020"	"2020"	"Heroin"	"T40.1"	128	6055802	2.1
+	"Maryland"	"24"	"2020"	"2020"	"Other opioids"	"T40.2"	378	6055802	6.2
+	"Maryland"	"24"	"2020"	"2020"	"Methadone"	"T40.3"	266	6055802	4.4
+	"Maryland"	"24"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	2355	6055802	38.9
+	"Maryland"	"24"	"2021"	"2021"	"Opium"	"T40.0"	0	6165129	Unreliable
+	"Maryland"	"24"	"2021"	"2021"	"Heroin"	"T40.1"	62	6165129	1.0
+	"Maryland"	"24"	"2021"	"2021"	"Other opioids"	"T40.2"	282	6165129	4.6
+	"Maryland"	"24"	"2021"	"2021"	"Methadone"	"T40.3"	277	6165129	4.5
+	"Maryland"	"24"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2342	6165129	38.0
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	6165129	Unreliable
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	26	6165129	0.4
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	232	6165129	3.8
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	224	6165129	3.6
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2119	6165129	34.4
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	6165129	Unreliable
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	21	6165129	0.3
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	124	6165129	2.0
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	147	6165129	2.4
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1446	6165129	23.5
+	"Massachusetts"	"25"	"2018"	"2018"	"Opium"	"T40.0"	0	6902149	Unreliable
+	"Massachusetts"	"25"	"2018"	"2018"	"Heroin"	"T40.1"	477	6902149	6.9
+	"Massachusetts"	"25"	"2018"	"2018"	"Other opioids"	"T40.2"	260	6902149	3.8
+	"Massachusetts"	"25"	"2018"	"2018"	"Methadone"	"T40.3"	92	6902149	1.3
+	"Massachusetts"	"25"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	1818	6902149	26.3
+	"Massachusetts"	"25"	"2019"	"2019"	"Opium"	"T40.0"	0	6892503	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"Heroin"	"T40.1"	378	6892503	5.5
+	"Massachusetts"	"25"	"2019"	"2019"	"Other opioids"	"T40.2"	235	6892503	3.4
+	"Massachusetts"	"25"	"2019"	"2019"	"Methadone"	"T40.3"	70	6892503	1.0
+	"Massachusetts"	"25"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1879	6892503	27.3
+	"Massachusetts"	"25"	"2020"	"2020"	"Opium"	"T40.0"	0	6893574	Unreliable
+	"Massachusetts"	"25"	"2020"	"2020"	"Heroin"	"T40.1"	226	6893574	3.3
+	"Massachusetts"	"25"	"2020"	"2020"	"Other opioids"	"T40.2"	273	6893574	4.0
+	"Massachusetts"	"25"	"2020"	"2020"	"Methadone"	"T40.3"	117	6893574	1.7
+	"Massachusetts"	"25"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1972	6893574	28.6
+	"Massachusetts"	"25"	"2021"	"2021"	"Opium"	"T40.0"	0	6984723	Unreliable
+	"Massachusetts"	"25"	"2021"	"2021"	"Heroin"	"T40.1"	152	6984723	2.2
+	"Massachusetts"	"25"	"2021"	"2021"	"Other opioids"	"T40.2"	205	6984723	2.9
+	"Massachusetts"	"25"	"2021"	"2021"	"Methadone"	"T40.3"	113	6984723	1.6
+	"Massachusetts"	"25"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2202	6984723	31.5
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	6984723	Unreliable
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	116	6984723	1.7
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	233	6984723	3.3
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	147	6984723	2.1
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2249	6984723	32.2
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	6984723	Unreliable
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	53	6984723	0.8
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	106	6984723	1.5
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	96	6984723	1.4
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1292	6984723	18.5
+	"Michigan"	"26"	"2018"	"2018"	"Opium"	"T40.0"	0	9995915	Unreliable
+	"Michigan"	"26"	"2018"	"2018"	"Heroin"	"T40.1"	638	9995915	6.4
+	"Michigan"	"26"	"2018"	"2018"	"Other opioids"	"T40.2"	456	9995915	4.6
+	"Michigan"	"26"	"2018"	"2018"	"Methadone"	"T40.3"	136	9995915	1.4
+	"Michigan"	"26"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	1546	9995915	15.5
+	"Michigan"	"26"	"2019"	"2019"	"Opium"	"T40.0"	0	9986857	Unreliable
+	"Michigan"	"26"	"2019"	"2019"	"Heroin"	"T40.1"	478	9986857	4.8
+	"Michigan"	"26"	"2019"	"2019"	"Other opioids"	"T40.2"	374	9986857	3.7
+	"Michigan"	"26"	"2019"	"2019"	"Methadone"	"T40.3"	115	9986857	1.2
+	"Michigan"	"26"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1467	9986857	14.7
+	"Michigan"	"26"	"2020"	"2020"	"Opium"	"T40.0"	Suppressed	9966555	Suppressed
+	"Michigan"	"26"	"2020"	"2020"	"Heroin"	"T40.1"	457	9966555	4.6
+	"Michigan"	"26"	"2020"	"2020"	"Other opioids"	"T40.2"	403	9966555	4.0
+	"Michigan"	"26"	"2020"	"2020"	"Methadone"	"T40.3"	128	9966555	1.3
+	"Michigan"	"26"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1947	9966555	19.5
+	"Michigan"	"26"	"2021"	"2021"	"Opium"	"T40.0"	0	10050811	Unreliable
+	"Michigan"	"26"	"2021"	"2021"	"Heroin"	"T40.1"	208	10050811	2.1
+	"Michigan"	"26"	"2021"	"2021"	"Other opioids"	"T40.2"	432	10050811	4.3
+	"Michigan"	"26"	"2021"	"2021"	"Methadone"	"T40.3"	126	10050811	1.3
+	"Michigan"	"26"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2320	10050811	23.1
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	10050811	Unreliable
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	163	10050811	1.6
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	301	10050811	3.0
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	77	10050811	0.8
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2259	10050811	22.5
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	10050811	Unreliable
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	51	10050811	0.5
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	146	10050811	1.5
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	38	10050811	0.4
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1328	10050811	13.2
+	"Minnesota"	"27"	"2018"	"2018"	"Opium"	"T40.0"	0	5611179	Unreliable
+	"Minnesota"	"27"	"2018"	"2018"	"Heroin"	"T40.1"	94	5611179	1.7
+	"Minnesota"	"27"	"2018"	"2018"	"Other opioids"	"T40.2"	111	5611179	2.0
+	"Minnesota"	"27"	"2018"	"2018"	"Methadone"	"T40.3"	44	5611179	0.8
+	"Minnesota"	"27"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	205	5611179	3.7
+	"Minnesota"	"27"	"2019"	"2019"	"Opium"	"T40.0"	0	5639632	Unreliable
+	"Minnesota"	"27"	"2019"	"2019"	"Heroin"	"T40.1"	107	5639632	1.9
+	"Minnesota"	"27"	"2019"	"2019"	"Other opioids"	"T40.2"	111	5639632	2.0
+	"Minnesota"	"27"	"2019"	"2019"	"Methadone"	"T40.3"	41	5639632	0.7
+	"Minnesota"	"27"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	312	5639632	5.5
+	"Minnesota"	"27"	"2020"	"2020"	"Opium"	"T40.0"	0	5657342	Unreliable
+	"Minnesota"	"27"	"2020"	"2020"	"Heroin"	"T40.1"	125	5657342	2.2
+	"Minnesota"	"27"	"2020"	"2020"	"Other opioids"	"T40.2"	174	5657342	3.1
+	"Minnesota"	"27"	"2020"	"2020"	"Methadone"	"T40.3"	62	5657342	1.1
+	"Minnesota"	"27"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	575	5657342	10.2
+	"Minnesota"	"27"	"2021"	"2021"	"Opium"	"T40.0"	0	5707390	Unreliable
+	"Minnesota"	"27"	"2021"	"2021"	"Heroin"	"T40.1"	106	5707390	1.9
+	"Minnesota"	"27"	"2021"	"2021"	"Other opioids"	"T40.2"	175	5707390	3.1
+	"Minnesota"	"27"	"2021"	"2021"	"Methadone"	"T40.3"	50	5707390	0.9
+	"Minnesota"	"27"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	901	5707390	15.8
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	5707390	Unreliable
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	46	5707390	0.8
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	147	5707390	2.6
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	50	5707390	0.9
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	968	5707390	17.0
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	5707390	Unreliable
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	22	5707390	0.4
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	78	5707390	1.4
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	29	5707390	0.5
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	694	5707390	12.2
+	"Mississippi"	"28"	"2018"	"2018"	"Opium"	"T40.0"	0	2986530	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Heroin"	"T40.1"	39	2986530	1.3
+	"Mississippi"	"28"	"2018"	"2018"	"Other opioids"	"T40.2"	87	2986530	2.9
+	"Mississippi"	"28"	"2018"	"2018"	"Methadone"	"T40.3"	12	2986530	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	72	2986530	2.4
+	"Mississippi"	"28"	"2019"	"2019"	"Opium"	"T40.0"	0	2976149	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"Heroin"	"T40.1"	78	2976149	2.6
+	"Mississippi"	"28"	"2019"	"2019"	"Other opioids"	"T40.2"	95	2976149	3.2
+	"Mississippi"	"28"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	2976149	Suppressed
+	"Mississippi"	"28"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	142	2976149	4.8
+	"Mississippi"	"28"	"2020"	"2020"	"Opium"	"T40.0"	0	2966786	Unreliable
+	"Mississippi"	"28"	"2020"	"2020"	"Heroin"	"T40.1"	71	2966786	2.4
+	"Mississippi"	"28"	"2020"	"2020"	"Other opioids"	"T40.2"	113	2966786	3.8
+	"Mississippi"	"28"	"2020"	"2020"	"Methadone"	"T40.3"	14	2966786	Unreliable
+	"Mississippi"	"28"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	316	2966786	10.7
+	"Mississippi"	"28"	"2021"	"2021"	"Opium"	"T40.0"	0	2949965	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"Heroin"	"T40.1"	41	2949965	1.4
+	"Mississippi"	"28"	"2021"	"2021"	"Other opioids"	"T40.2"	139	2949965	4.7
+	"Mississippi"	"28"	"2021"	"2021"	"Methadone"	"T40.3"	15	2949965	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	480	2949965	16.3
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	2949965	Unreliable
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	24	2949965	0.8
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	100	2949965	3.4
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	Suppressed	2949965	Suppressed
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	487	2949965	16.5
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	2949965	Unreliable
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	12	2949965	Unreliable
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	51	2949965	1.7
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	2949965	Suppressed
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	288	2949965	9.8
+	"Missouri"	"29"	"2018"	"2018"	"Opium"	"T40.0"	0	6126452	Unreliable
+	"Missouri"	"29"	"2018"	"2018"	"Heroin"	"T40.1"	365	6126452	6.0
+	"Missouri"	"29"	"2018"	"2018"	"Other opioids"	"T40.2"	244	6126452	4.0
+	"Missouri"	"29"	"2018"	"2018"	"Methadone"	"T40.3"	44	6126452	0.7
+	"Missouri"	"29"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	901	6126452	14.7
+	"Missouri"	"29"	"2019"	"2019"	"Opium"	"T40.0"	0	6137428	Unreliable
+	"Missouri"	"29"	"2019"	"2019"	"Heroin"	"T40.1"	231	6137428	3.8
+	"Missouri"	"29"	"2019"	"2019"	"Other opioids"	"T40.2"	234	6137428	3.8
+	"Missouri"	"29"	"2019"	"2019"	"Methadone"	"T40.3"	32	6137428	0.5
+	"Missouri"	"29"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	913	6137428	14.9
+	"Missouri"	"29"	"2020"	"2020"	"Opium"	"T40.0"	0	6151548	Unreliable
+	"Missouri"	"29"	"2020"	"2020"	"Heroin"	"T40.1"	148	6151548	2.4
+	"Missouri"	"29"	"2020"	"2020"	"Other opioids"	"T40.2"	225	6151548	3.7
+	"Missouri"	"29"	"2020"	"2020"	"Methadone"	"T40.3"	27	6151548	0.4
+	"Missouri"	"29"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1244	6151548	20.2
+	"Missouri"	"29"	"2021"	"2021"	"Opium"	"T40.0"	0	6168187	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"Heroin"	"T40.1"	91	6168187	1.5
+	"Missouri"	"29"	"2021"	"2021"	"Other opioids"	"T40.2"	200	6168187	3.2
+	"Missouri"	"29"	"2021"	"2021"	"Methadone"	"T40.3"	27	6168187	0.4
+	"Missouri"	"29"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1495	6168187	24.2
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	6168187	Unreliable
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	46	6168187	0.7
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	197	6168187	3.2
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	28	6168187	0.5
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1505	6168187	24.4
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	6168187	Unreliable
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	19	6168187	Unreliable
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	98	6168187	1.6
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	24	6168187	0.4
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	972	6168187	15.8
+	"Montana"	"30"	"2018"	"2018"	"Opium"	"T40.0"	0	1062305	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"Heroin"	"T40.1"	22	1062305	2.1
+	"Montana"	"30"	"2018"	"2018"	"Other opioids"	"T40.2"	23	1062305	2.2
+	"Montana"	"30"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	1062305	Suppressed
+	"Montana"	"30"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	11	1062305	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Opium"	"T40.0"	0	1068778	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Heroin"	"T40.1"	27	1068778	2.5
+	"Montana"	"30"	"2019"	"2019"	"Other opioids"	"T40.2"	26	1068778	2.4
+	"Montana"	"30"	"2019"	"2019"	"Methadone"	"T40.3"	10	1068778	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	18	1068778	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"Opium"	"T40.0"	0	1080577	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"Heroin"	"T40.1"	31	1080577	2.9
+	"Montana"	"30"	"2020"	"2020"	"Other opioids"	"T40.2"	36	1080577	3.3
+	"Montana"	"30"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	1080577	Suppressed
+	"Montana"	"30"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	31	1080577	2.9
+	"Montana"	"30"	"2021"	"2021"	"Opium"	"T40.0"	0	1104271	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"Heroin"	"T40.1"	21	1104271	1.9
+	"Montana"	"30"	"2021"	"2021"	"Other opioids"	"T40.2"	29	1104271	2.6
+	"Montana"	"30"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	1104271	Suppressed
+	"Montana"	"30"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	73	1104271	6.6
+	"Montana"	"30"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1104271	Unreliable
+	"Montana"	"30"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	1104271	Suppressed
+	"Montana"	"30"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	33	1104271	3.0
+	"Montana"	"30"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	10	1104271	Unreliable
+	"Montana"	"30"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	102	1104271	9.2
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1104271	Unreliable
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	1104271	Suppressed
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	12	1104271	Unreliable
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	1104271	Suppressed
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	59	1104271	5.3
+	"Nebraska"	"31"	"2018"	"2018"	"Opium"	"T40.0"	0	1929268	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"Heroin"	"T40.1"	10	1929268	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"Other opioids"	"T40.2"	38	1929268	2.0
+	"Nebraska"	"31"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	1929268	Suppressed
+	"Nebraska"	"31"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	27	1929268	1.4
+	"Nebraska"	"31"	"2019"	"2019"	"Opium"	"T40.0"	0	1934408	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Heroin"	"T40.1"	15	1934408	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Other opioids"	"T40.2"	38	1934408	2.0
+	"Nebraska"	"31"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	1934408	Suppressed
+	"Nebraska"	"31"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	27	1934408	1.4
+	"Nebraska"	"31"	"2020"	"2020"	"Opium"	"T40.0"	0	1937552	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"Heroin"	"T40.1"	20	1937552	1.0
+	"Nebraska"	"31"	"2020"	"2020"	"Other opioids"	"T40.2"	34	1937552	1.8
+	"Nebraska"	"31"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	1937552	Suppressed
+	"Nebraska"	"31"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	74	1937552	3.8
+	"Nebraska"	"31"	"2021"	"2021"	"Opium"	"T40.0"	0	1963692	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"Heroin"	"T40.1"	Suppressed	1963692	Suppressed
+	"Nebraska"	"31"	"2021"	"2021"	"Other opioids"	"T40.2"	44	1963692	2.2
+	"Nebraska"	"31"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	1963692	Suppressed
+	"Nebraska"	"31"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	92	1963692	4.7
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1963692	Unreliable
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	0	1963692	Unreliable
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	35	1963692	1.8
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	Suppressed	1963692	Suppressed
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	102	1963692	5.2
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1963692	Unreliable
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	1963692	Suppressed
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	15	1963692	Unreliable
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	1963692	Suppressed
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	38	1963692	1.9
+	"Nevada"	"32"	"2018"	"2018"	"Opium"	"T40.0"	0	3034392	Unreliable
+	"Nevada"	"32"	"2018"	"2018"	"Heroin"	"T40.1"	110	3034392	3.6
+	"Nevada"	"32"	"2018"	"2018"	"Other opioids"	"T40.2"	231	3034392	7.6
+	"Nevada"	"32"	"2018"	"2018"	"Methadone"	"T40.3"	34	3034392	1.1
+	"Nevada"	"32"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	89	3034392	2.9
+	"Nevada"	"32"	"2019"	"2019"	"Opium"	"T40.0"	Suppressed	3080156	Suppressed
+	"Nevada"	"32"	"2019"	"2019"	"Heroin"	"T40.1"	129	3080156	4.2
+	"Nevada"	"32"	"2019"	"2019"	"Other opioids"	"T40.2"	178	3080156	5.8
+	"Nevada"	"32"	"2019"	"2019"	"Methadone"	"T40.3"	34	3080156	1.1
+	"Nevada"	"32"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	119	3080156	3.9
+	"Nevada"	"32"	"2020"	"2020"	"Opium"	"T40.0"	0	3138259	Unreliable
+	"Nevada"	"32"	"2020"	"2020"	"Heroin"	"T40.1"	137	3138259	4.4
+	"Nevada"	"32"	"2020"	"2020"	"Other opioids"	"T40.2"	228	3138259	7.3
+	"Nevada"	"32"	"2020"	"2020"	"Methadone"	"T40.3"	38	3138259	1.2
+	"Nevada"	"32"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	294	3138259	9.4
+	"Nevada"	"32"	"2021"	"2021"	"Opium"	"T40.0"	0	3143991	Unreliable
+	"Nevada"	"32"	"2021"	"2021"	"Heroin"	"T40.1"	126	3143991	4.0
+	"Nevada"	"32"	"2021"	"2021"	"Other opioids"	"T40.2"	237	3143991	7.5
+	"Nevada"	"32"	"2021"	"2021"	"Methadone"	"T40.3"	24	3143991	0.8
+	"Nevada"	"32"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	372	3143991	11.8
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3143991	Unreliable
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	95	3143991	3.0
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	187	3143991	5.9
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	27	3143991	0.9
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	467	3143991	14.9
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3143991	Unreliable
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	39	3143991	1.2
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	86	3143991	2.7
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	25	3143991	0.8
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	354	3143991	11.3
+	"New Hampshire"	"33"	"2018"	"2018"	"Opium"	"T40.0"	0	1356458	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"Heroin"	"T40.1"	12	1356458	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"Other opioids"	"T40.2"	36	1356458	2.7
+	"New Hampshire"	"33"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	1356458	Suppressed
+	"New Hampshire"	"33"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	393	1356458	29.0
+	"New Hampshire"	"33"	"2019"	"2019"	"Opium"	"T40.0"	0	1359711	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"Heroin"	"T40.1"	Suppressed	1359711	Suppressed
+	"New Hampshire"	"33"	"2019"	"2019"	"Other opioids"	"T40.2"	38	1359711	2.8
+	"New Hampshire"	"33"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	1359711	Suppressed
+	"New Hampshire"	"33"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	351	1359711	25.8
+	"New Hampshire"	"33"	"2020"	"2020"	"Opium"	"T40.0"	0	1366275	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Heroin"	"T40.1"	Suppressed	1366275	Suppressed
+	"New Hampshire"	"33"	"2020"	"2020"	"Other opioids"	"T40.2"	30	1366275	2.2
+	"New Hampshire"	"33"	"2020"	"2020"	"Methadone"	"T40.3"	18	1366275	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	323	1366275	23.6
+	"New Hampshire"	"33"	"2021"	"2021"	"Opium"	"T40.0"	0	1388992	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"Heroin"	"T40.1"	Suppressed	1388992	Suppressed
+	"New Hampshire"	"33"	"2021"	"2021"	"Other opioids"	"T40.2"	38	1388992	2.7
+	"New Hampshire"	"33"	"2021"	"2021"	"Methadone"	"T40.3"	13	1388992	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	360	1388992	25.9
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1388992	Unreliable
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	1388992	Suppressed
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	15	1388992	Unreliable
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	13	1388992	Unreliable
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	417	1388992	30.0
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1388992	Unreliable
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	0	1388992	Unreliable
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	12	1388992	Unreliable
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	1388992	Suppressed
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	264	1388992	19.0
+	"New Jersey"	"34"	"2018"	"2018"	"Opium"	"T40.0"	0	8908520	Unreliable
+	"New Jersey"	"34"	"2018"	"2018"	"Heroin"	"T40.1"	1304	8908520	14.6
+	"New Jersey"	"34"	"2018"	"2018"	"Other opioids"	"T40.2"	418	8908520	4.7
+	"New Jersey"	"34"	"2018"	"2018"	"Methadone"	"T40.3"	124	8908520	1.4
+	"New Jersey"	"34"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	2243	8908520	25.2
+	"New Jersey"	"34"	"2019"	"2019"	"Opium"	"T40.0"	0	8882190	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"Heroin"	"T40.1"	1019	8882190	11.5
+	"New Jersey"	"34"	"2019"	"2019"	"Other opioids"	"T40.2"	372	8882190	4.2
+	"New Jersey"	"34"	"2019"	"2019"	"Methadone"	"T40.3"	113	8882190	1.3
+	"New Jersey"	"34"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	2243	8882190	25.3
+	"New Jersey"	"34"	"2020"	"2020"	"Opium"	"T40.0"	0	8882371	Unreliable
+	"New Jersey"	"34"	"2020"	"2020"	"Heroin"	"T40.1"	698	8882371	7.9
+	"New Jersey"	"34"	"2020"	"2020"	"Other opioids"	"T40.2"	349	8882371	3.9
+	"New Jersey"	"34"	"2020"	"2020"	"Methadone"	"T40.3"	142	8882371	1.6
+	"New Jersey"	"34"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	2357	8882371	26.5
+	"New Jersey"	"34"	"2021"	"2021"	"Opium"	"T40.0"	0	9267130	Unreliable
+	"New Jersey"	"34"	"2021"	"2021"	"Heroin"	"T40.1"	428	9267130	4.6
+	"New Jersey"	"34"	"2021"	"2021"	"Other opioids"	"T40.2"	350	9267130	3.8
+	"New Jersey"	"34"	"2021"	"2021"	"Methadone"	"T40.3"	151	9267130	1.6
+	"New Jersey"	"34"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2541	9267130	27.4
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	9267130	Unreliable
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	304	9267130	3.3
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	264	9267130	2.8
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	112	9267130	1.2
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2530	9267130	27.3
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	9267130	Unreliable
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	82	9267130	0.9
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	136	9267130	1.5
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	55	9267130	0.6
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1070	9267130	11.5
+	"New Mexico"	"35"	"2018"	"2018"	"Opium"	"T40.0"	0	2095428	Unreliable
+	"New Mexico"	"35"	"2018"	"2018"	"Heroin"	"T40.1"	135	2095428	6.4
+	"New Mexico"	"35"	"2018"	"2018"	"Other opioids"	"T40.2"	143	2095428	6.8
+	"New Mexico"	"35"	"2018"	"2018"	"Methadone"	"T40.3"	58	2095428	2.8
+	"New Mexico"	"35"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	108	2095428	5.2
+	"New Mexico"	"35"	"2019"	"2019"	"Opium"	"T40.0"	0	2096829	Unreliable
+	"New Mexico"	"35"	"2019"	"2019"	"Heroin"	"T40.1"	190	2096829	9.1
+	"New Mexico"	"35"	"2019"	"2019"	"Other opioids"	"T40.2"	144	2096829	6.9
+	"New Mexico"	"35"	"2019"	"2019"	"Methadone"	"T40.3"	54	2096829	2.6
+	"New Mexico"	"35"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	153	2096829	7.3
+	"New Mexico"	"35"	"2020"	"2020"	"Opium"	"T40.0"	0	2106319	Unreliable
+	"New Mexico"	"35"	"2020"	"2020"	"Heroin"	"T40.1"	197	2106319	9.4
+	"New Mexico"	"35"	"2020"	"2020"	"Other opioids"	"T40.2"	169	2106319	8.0
+	"New Mexico"	"35"	"2020"	"2020"	"Methadone"	"T40.3"	62	2106319	2.9
+	"New Mexico"	"35"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	330	2106319	15.7
+	"New Mexico"	"35"	"2021"	"2021"	"Opium"	"T40.0"	0	2115877	Unreliable
+	"New Mexico"	"35"	"2021"	"2021"	"Heroin"	"T40.1"	176	2115877	8.3
+	"New Mexico"	"35"	"2021"	"2021"	"Other opioids"	"T40.2"	157	2115877	7.4
+	"New Mexico"	"35"	"2021"	"2021"	"Methadone"	"T40.3"	78	2115877	3.7
+	"New Mexico"	"35"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	628	2115877	29.7
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	2115877	Unreliable
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	50	2115877	2.4
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	111	2115877	5.2
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	56	2115877	2.6
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	679	2115877	32.1
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	2115877	Unreliable
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	22	2115877	1.0
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	72	2115877	3.4
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	41	2115877	1.9
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	425	2115877	20.1
+	"New York"	"36"	"2018"	"2018"	"Opium"	"T40.0"	0	19542209	Unreliable
+	"New York"	"36"	"2018"	"2018"	"Heroin"	"T40.1"	1265	19542209	6.5
+	"New York"	"36"	"2018"	"2018"	"Other opioids"	"T40.2"	809	19542209	4.1
+	"New York"	"36"	"2018"	"2018"	"Methadone"	"T40.3"	273	19542209	1.4
+	"New York"	"36"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	2229	19542209	11.4
+	"New York"	"36"	"2019"	"2019"	"Opium"	"T40.0"	0	19453561	Unreliable
+	"New York"	"36"	"2019"	"2019"	"Heroin"	"T40.1"	1164	19453561	6.0
+	"New York"	"36"	"2019"	"2019"	"Other opioids"	"T40.2"	739	19453561	3.8
+	"New York"	"36"	"2019"	"2019"	"Methadone"	"T40.3"	295	19453561	1.5
+	"New York"	"36"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	2379	19453561	12.2
+	"New York"	"36"	"2020"	"2020"	"Opium"	"T40.0"	0	19336776	Unreliable
+	"New York"	"36"	"2020"	"2020"	"Heroin"	"T40.1"	1287	19336776	6.7
+	"New York"	"36"	"2020"	"2020"	"Other opioids"	"T40.2"	962	19336776	5.0
+	"New York"	"36"	"2020"	"2020"	"Methadone"	"T40.3"	439	19336776	2.3
+	"New York"	"36"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	3769	19336776	19.5
+	"New York"	"36"	"2021"	"2021"	"Opium"	"T40.0"	0	19835913	Unreliable
+	"New York"	"36"	"2021"	"2021"	"Heroin"	"T40.1"	1052	19835913	5.3
+	"New York"	"36"	"2021"	"2021"	"Other opioids"	"T40.2"	1003	19835913	5.1
+	"New York"	"36"	"2021"	"2021"	"Methadone"	"T40.3"	492	19835913	2.5
+	"New York"	"36"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	4592	19835913	23.1
+	"New York"	"36"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	19835913	Unreliable
+	"New York"	"36"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	931	19835913	4.7
+	"New York"	"36"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	920	19835913	4.6
+	"New York"	"36"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	485	19835913	2.4
+	"New York"	"36"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	5033	19835913	25.4
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	19835913	Unreliable
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	282	19835913	1.4
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	391	19835913	2.0
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	185	19835913	0.9
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	2464	19835913	12.4
+	"North Carolina"	"37"	"2018"	"2018"	"Opium"	"T40.0"	0	10383620	Unreliable
+	"North Carolina"	"37"	"2018"	"2018"	"Heroin"	"T40.1"	622	10383620	6.0
+	"North Carolina"	"37"	"2018"	"2018"	"Other opioids"	"T40.2"	431	10383620	4.2
+	"North Carolina"	"37"	"2018"	"2018"	"Methadone"	"T40.3"	77	10383620	0.7
+	"North Carolina"	"37"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	1283	10383620	12.4
+	"North Carolina"	"37"	"2019"	"2019"	"Opium"	"T40.0"	0	10488084	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"Heroin"	"T40.1"	591	10488084	5.6
+	"North Carolina"	"37"	"2019"	"2019"	"Other opioids"	"T40.2"	367	10488084	3.5
+	"North Carolina"	"37"	"2019"	"2019"	"Methadone"	"T40.3"	81	10488084	0.8
+	"North Carolina"	"37"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1373	10488084	13.1
+	"North Carolina"	"37"	"2020"	"2020"	"Opium"	"T40.0"	0	10600823	Unreliable
+	"North Carolina"	"37"	"2020"	"2020"	"Heroin"	"T40.1"	536	10600823	5.1
+	"North Carolina"	"37"	"2020"	"2020"	"Other opioids"	"T40.2"	414	10600823	3.9
+	"North Carolina"	"37"	"2020"	"2020"	"Methadone"	"T40.3"	104	10600823	1.0
+	"North Carolina"	"37"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	2299	10600823	21.7
+	"North Carolina"	"37"	"2021"	"2021"	"Opium"	"T40.0"	0	10551162	Unreliable
+	"North Carolina"	"37"	"2021"	"2021"	"Heroin"	"T40.1"	258	10551162	2.4
+	"North Carolina"	"37"	"2021"	"2021"	"Other opioids"	"T40.2"	477	10551162	4.5
+	"North Carolina"	"37"	"2021"	"2021"	"Methadone"	"T40.3"	103	10551162	1.0
+	"North Carolina"	"37"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	3088	10551162	29.3
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	10551162	Unreliable
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	127	10551162	1.2
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	473	10551162	4.5
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	108	10551162	1.0
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	3367	10551162	31.9
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	10551162	Unreliable
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	16	10551162	Unreliable
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	107	10551162	1.0
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	17	10551162	Unreliable
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	882	10551162	8.4
+	"North Dakota"	"38"	"2018"	"2018"	"Opium"	"T40.0"	0	760077	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"Heroin"	"T40.1"	Suppressed	760077	Suppressed
+	"North Dakota"	"38"	"2018"	"2018"	"Other opioids"	"T40.2"	21	760077	2.8
+	"North Dakota"	"38"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	760077	Suppressed
+	"North Dakota"	"38"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	Suppressed	760077	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	"Opium"	"T40.0"	0	762062	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"Heroin"	"T40.1"	Suppressed	762062	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	"Other opioids"	"T40.2"	24	762062	3.1
+	"North Dakota"	"38"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	762062	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	10	762062	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Opium"	"T40.0"	0	765309	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Heroin"	"T40.1"	11	765309	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Other opioids"	"T40.2"	19	765309	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	765309	Suppressed
+	"North Dakota"	"38"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	32	765309	4.2
+	"North Dakota"	"38"	"2021"	"2021"	"Opium"	"T40.0"	0	774948	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"Heroin"	"T40.1"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2021"	"2021"	"Other opioids"	"T40.2"	17	774948	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	58	774948	7.5
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	774948	Unreliable
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	15	774948	Unreliable
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	86	774948	11.1
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	774948	Unreliable
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	774948	Suppressed
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	54	774948	7.0
+	"Ohio"	"39"	"2018"	"2018"	"Opium"	"T40.0"	0	11689442	Unreliable
+	"Ohio"	"39"	"2018"	"2018"	"Heroin"	"T40.1"	731	11689442	6.3
+	"Ohio"	"39"	"2018"	"2018"	"Other opioids"	"T40.2"	531	11689442	4.5
+	"Ohio"	"39"	"2018"	"2018"	"Methadone"	"T40.3"	73	11689442	0.6
+	"Ohio"	"39"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	2831	11689442	24.2
+	"Ohio"	"39"	"2019"	"2019"	"Opium"	"T40.0"	0	11689100	Unreliable
+	"Ohio"	"39"	"2019"	"2019"	"Heroin"	"T40.1"	534	11689100	4.6
+	"Ohio"	"39"	"2019"	"2019"	"Other opioids"	"T40.2"	448	11689100	3.8
+	"Ohio"	"39"	"2019"	"2019"	"Methadone"	"T40.3"	83	11689100	0.7
+	"Ohio"	"39"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	3179	11689100	27.2
+	"Ohio"	"39"	"2020"	"2020"	"Opium"	"T40.0"	0	11693217	Unreliable
+	"Ohio"	"39"	"2020"	"2020"	"Heroin"	"T40.1"	319	11693217	2.7
+	"Ohio"	"39"	"2020"	"2020"	"Other opioids"	"T40.2"	467	11693217	4.0
+	"Ohio"	"39"	"2020"	"2020"	"Methadone"	"T40.3"	87	11693217	0.7
+	"Ohio"	"39"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	4193	11693217	35.9
+	"Ohio"	"39"	"2021"	"2021"	"Opium"	"T40.0"	0	11780017	Unreliable
+	"Ohio"	"39"	"2021"	"2021"	"Heroin"	"T40.1"	167	11780017	1.4
+	"Ohio"	"39"	"2021"	"2021"	"Other opioids"	"T40.2"	442	11780017	3.8
+	"Ohio"	"39"	"2021"	"2021"	"Methadone"	"T40.3"	104	11780017	0.9
+	"Ohio"	"39"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	4277	11780017	36.3
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	11780017	Unreliable
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	92	11780017	0.8
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	394	11780017	3.3
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	120	11780017	1.0
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	4051	11780017	34.4
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	11780017	Unreliable
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	57	11780017	0.5
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	241	11780017	2.0
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	73	11780017	0.6
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	2526	11780017	21.4
+	"Oklahoma"	"40"	"2018"	"2018"	"Opium"	"T40.0"	0	3943079	Unreliable
+	"Oklahoma"	"40"	"2018"	"2018"	"Heroin"	"T40.1"	85	3943079	2.2
+	"Oklahoma"	"40"	"2018"	"2018"	"Other opioids"	"T40.2"	163	3943079	4.1
+	"Oklahoma"	"40"	"2018"	"2018"	"Methadone"	"T40.3"	21	3943079	0.5
+	"Oklahoma"	"40"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	80	3943079	2.0
+	"Oklahoma"	"40"	"2019"	"2019"	"Opium"	"T40.0"	0	3956971	Unreliable
+	"Oklahoma"	"40"	"2019"	"2019"	"Heroin"	"T40.1"	75	3956971	1.9
+	"Oklahoma"	"40"	"2019"	"2019"	"Other opioids"	"T40.2"	119	3956971	3.0
+	"Oklahoma"	"40"	"2019"	"2019"	"Methadone"	"T40.3"	20	3956971	0.5
+	"Oklahoma"	"40"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	81	3956971	2.0
+	"Oklahoma"	"40"	"2020"	"2020"	"Opium"	"T40.0"	0	3980783	Unreliable
+	"Oklahoma"	"40"	"2020"	"2020"	"Heroin"	"T40.1"	87	3980783	2.2
+	"Oklahoma"	"40"	"2020"	"2020"	"Other opioids"	"T40.2"	105	3980783	2.6
+	"Oklahoma"	"40"	"2020"	"2020"	"Methadone"	"T40.3"	18	3980783	Unreliable
+	"Oklahoma"	"40"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	150	3980783	3.8
+	"Oklahoma"	"40"	"2021"	"2021"	"Opium"	"T40.0"	0	3986639	Unreliable
+	"Oklahoma"	"40"	"2021"	"2021"	"Heroin"	"T40.1"	45	3986639	1.1
+	"Oklahoma"	"40"	"2021"	"2021"	"Other opioids"	"T40.2"	120	3986639	3.0
+	"Oklahoma"	"40"	"2021"	"2021"	"Methadone"	"T40.3"	32	3986639	0.8
+	"Oklahoma"	"40"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	342	3986639	8.6
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3986639	Unreliable
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	39	3986639	1.0
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	121	3986639	3.0
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	21	3986639	0.5
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	653	3986639	16.4
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3986639	Unreliable
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	3986639	Suppressed
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	38	3986639	1.0
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	3986639	Suppressed
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	255	3986639	6.4
+	"Oregon"	"41"	"2018"	"2018"	"Opium"	"T40.0"	Suppressed	4190713	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"Heroin"	"T40.1"	157	4190713	3.7
+	"Oregon"	"41"	"2018"	"2018"	"Other opioids"	"T40.2"	129	4190713	3.1
+	"Oregon"	"41"	"2018"	"2018"	"Methadone"	"T40.3"	34	4190713	0.8
+	"Oregon"	"41"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	100	4190713	2.4
+	"Oregon"	"41"	"2019"	"2019"	"Opium"	"T40.0"	0	4217737	Unreliable
+	"Oregon"	"41"	"2019"	"2019"	"Heroin"	"T40.1"	150	4217737	3.6
+	"Oregon"	"41"	"2019"	"2019"	"Other opioids"	"T40.2"	105	4217737	2.5
+	"Oregon"	"41"	"2019"	"2019"	"Methadone"	"T40.3"	29	4217737	0.7
+	"Oregon"	"41"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	96	4217737	2.3
+	"Oregon"	"41"	"2020"	"2020"	"Opium"	"T40.0"	0	4241507	Unreliable
+	"Oregon"	"41"	"2020"	"2020"	"Heroin"	"T40.1"	203	4241507	4.8
+	"Oregon"	"41"	"2020"	"2020"	"Other opioids"	"T40.2"	114	4241507	2.7
+	"Oregon"	"41"	"2020"	"2020"	"Methadone"	"T40.3"	34	4241507	0.8
+	"Oregon"	"41"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	245	4241507	5.8
+	"Oregon"	"41"	"2021"	"2021"	"Opium"	"T40.0"	0	4246155	Unreliable
+	"Oregon"	"41"	"2021"	"2021"	"Heroin"	"T40.1"	223	4246155	5.3
+	"Oregon"	"41"	"2021"	"2021"	"Other opioids"	"T40.2"	178	4246155	4.2
+	"Oregon"	"41"	"2021"	"2021"	"Methadone"	"T40.3"	44	4246155	1.0
+	"Oregon"	"41"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	537	4246155	12.6
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	4246155	Unreliable
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	118	4246155	2.8
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	138	4246155	3.2
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	35	4246155	0.8
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	860	4246155	20.3
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	4246155	Unreliable
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	31	4246155	0.7
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	61	4246155	1.4
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	15	4246155	Unreliable
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	592	4246155	13.9
+	"Pennsylvania"	"42"	"2018"	"2018"	"Opium"	"T40.0"	0	12807060	Unreliable
+	"Pennsylvania"	"42"	"2018"	"2018"	"Heroin"	"T40.1"	848	12807060	6.6
+	"Pennsylvania"	"42"	"2018"	"2018"	"Other opioids"	"T40.2"	603	12807060	4.7
+	"Pennsylvania"	"42"	"2018"	"2018"	"Methadone"	"T40.3"	119	12807060	0.9
+	"Pennsylvania"	"42"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	2448	12807060	19.1
+	"Pennsylvania"	"42"	"2019"	"2019"	"Opium"	"T40.0"	0	12801989	Unreliable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Heroin"	"T40.1"	818	12801989	6.4
+	"Pennsylvania"	"42"	"2019"	"2019"	"Other opioids"	"T40.2"	516	12801989	4.0
+	"Pennsylvania"	"42"	"2019"	"2019"	"Methadone"	"T40.3"	135	12801989	1.1
+	"Pennsylvania"	"42"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	2688	12801989	21.0
+	"Pennsylvania"	"42"	"2020"	"2020"	"Opium"	"T40.0"	0	12783254	Unreliable
+	"Pennsylvania"	"42"	"2020"	"2020"	"Heroin"	"T40.1"	806	12783254	6.3
+	"Pennsylvania"	"42"	"2020"	"2020"	"Other opioids"	"T40.2"	633	12783254	5.0
+	"Pennsylvania"	"42"	"2020"	"2020"	"Methadone"	"T40.3"	155	12783254	1.2
+	"Pennsylvania"	"42"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	3608	12783254	28.2
+	"Pennsylvania"	"42"	"2021"	"2021"	"Opium"	"T40.0"	0	12964056	Unreliable
+	"Pennsylvania"	"42"	"2021"	"2021"	"Heroin"	"T40.1"	468	12964056	3.6
+	"Pennsylvania"	"42"	"2021"	"2021"	"Other opioids"	"T40.2"	630	12964056	4.9
+	"Pennsylvania"	"42"	"2021"	"2021"	"Methadone"	"T40.3"	179	12964056	1.4
+	"Pennsylvania"	"42"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	3822	12964056	29.5
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	12964056	Unreliable
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	308	12964056	2.4
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	493	12964056	3.8
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	164	12964056	1.3
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	3723	12964056	28.7
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	12964056	Unreliable
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	114	12964056	0.9
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	282	12964056	2.2
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	119	12964056	0.9
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	2286	12964056	17.6
+	"Rhode Island"	"44"	"2018"	"2018"	"Opium"	"T40.0"	0	1057315	Unreliable
+	"Rhode Island"	"44"	"2018"	"2018"	"Heroin"	"T40.1"	24	1057315	2.3
+	"Rhode Island"	"44"	"2018"	"2018"	"Other opioids"	"T40.2"	59	1057315	5.6
+	"Rhode Island"	"44"	"2018"	"2018"	"Methadone"	"T40.3"	33	1057315	3.1
+	"Rhode Island"	"44"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	214	1057315	20.2
+	"Rhode Island"	"44"	"2019"	"2019"	"Opium"	"T40.0"	0	1059361	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"Heroin"	"T40.1"	18	1059361	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"Other opioids"	"T40.2"	43	1059361	4.1
+	"Rhode Island"	"44"	"2019"	"2019"	"Methadone"	"T40.3"	24	1059361	2.3
+	"Rhode Island"	"44"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	204	1059361	19.3
+	"Rhode Island"	"44"	"2020"	"2020"	"Opium"	"T40.0"	0	1057125	Unreliable
+	"Rhode Island"	"44"	"2020"	"2020"	"Heroin"	"T40.1"	Suppressed	1057125	Suppressed
+	"Rhode Island"	"44"	"2020"	"2020"	"Other opioids"	"T40.2"	42	1057125	4.0
+	"Rhode Island"	"44"	"2020"	"2020"	"Methadone"	"T40.3"	51	1057125	4.8
+	"Rhode Island"	"44"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	294	1057125	27.8
+	"Rhode Island"	"44"	"2021"	"2021"	"Opium"	"T40.0"	0	1095610	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"Heroin"	"T40.1"	Suppressed	1095610	Suppressed
+	"Rhode Island"	"44"	"2021"	"2021"	"Other opioids"	"T40.2"	47	1095610	4.3
+	"Rhode Island"	"44"	"2021"	"2021"	"Methadone"	"T40.3"	47	1095610	4.3
+	"Rhode Island"	"44"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	347	1095610	31.7
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1095610	Unreliable
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	1095610	Suppressed
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	44	1095610	4.0
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	32	1095610	2.9
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	317	1095610	28.9
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1095610	Unreliable
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	0	1095610	Unreliable
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	26	1095610	2.4
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	24	1095610	2.2
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	169	1095610	15.4
+	"South Carolina"	"45"	"2018"	"2018"	"Opium"	"T40.0"	Suppressed	5084127	Suppressed
+	"South Carolina"	"45"	"2018"	"2018"	"Heroin"	"T40.1"	185	5084127	3.6
+	"South Carolina"	"45"	"2018"	"2018"	"Other opioids"	"T40.2"	342	5084127	6.7
+	"South Carolina"	"45"	"2018"	"2018"	"Methadone"	"T40.3"	61	5084127	1.2
+	"South Carolina"	"45"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	517	5084127	10.2
+	"South Carolina"	"45"	"2019"	"2019"	"Opium"	"T40.0"	Suppressed	5148714	Suppressed
+	"South Carolina"	"45"	"2019"	"2019"	"Heroin"	"T40.1"	199	5148714	3.9
+	"South Carolina"	"45"	"2019"	"2019"	"Other opioids"	"T40.2"	345	5148714	6.7
+	"South Carolina"	"45"	"2019"	"2019"	"Methadone"	"T40.3"	31	5148714	0.6
+	"South Carolina"	"45"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	572	5148714	11.1
+	"South Carolina"	"45"	"2020"	"2020"	"Opium"	"T40.0"	0	5218040	Unreliable
+	"South Carolina"	"45"	"2020"	"2020"	"Heroin"	"T40.1"	258	5218040	4.9
+	"South Carolina"	"45"	"2020"	"2020"	"Other opioids"	"T40.2"	406	5218040	7.8
+	"South Carolina"	"45"	"2020"	"2020"	"Methadone"	"T40.3"	46	5218040	0.9
+	"South Carolina"	"45"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1165	5218040	22.3
+	"South Carolina"	"45"	"2021"	"2021"	"Opium"	"T40.0"	0	5190705	Unreliable
+	"South Carolina"	"45"	"2021"	"2021"	"Heroin"	"T40.1"	140	5190705	2.7
+	"South Carolina"	"45"	"2021"	"2021"	"Other opioids"	"T40.2"	390	5190705	7.5
+	"South Carolina"	"45"	"2021"	"2021"	"Methadone"	"T40.3"	73	5190705	1.4
+	"South Carolina"	"45"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1524	5190705	29.4
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	5190705	Unreliable
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	54	5190705	1.0
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	364	5190705	7.0
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	59	5190705	1.1
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1657	5190705	31.9
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	5190705	Unreliable
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	21	5190705	0.4
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	187	5190705	3.6
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	31	5190705	0.6
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1044	5190705	20.1
+	"South Dakota"	"46"	"2018"	"2018"	"Opium"	"T40.0"	0	882235	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"Heroin"	"T40.1"	Suppressed	882235	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	"Other opioids"	"T40.2"	Suppressed	882235	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	882235	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	14	882235	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Opium"	"T40.0"	0	884659	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Heroin"	"T40.1"	Suppressed	884659	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	"Other opioids"	"T40.2"	15	884659	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	884659	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	24	884659	2.7
+	"South Dakota"	"46"	"2020"	"2020"	"Opium"	"T40.0"	0	892717	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"Heroin"	"T40.1"	Suppressed	892717	Suppressed
+	"South Dakota"	"46"	"2020"	"2020"	"Other opioids"	"T40.2"	16	892717	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"Methadone"	"T40.3"	0	892717	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	36	892717	4.0
+	"South Dakota"	"46"	"2021"	"2021"	"Opium"	"T40.0"	0	895376	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Heroin"	"T40.1"	Suppressed	895376	Suppressed
+	"South Dakota"	"46"	"2021"	"2021"	"Other opioids"	"T40.2"	13	895376	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Methadone"	"T40.3"	0	895376	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	34	895376	3.8
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	895376	Unreliable
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	0	895376	Unreliable
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	10	895376	Unreliable
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	0	895376	Unreliable
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	38	895376	4.2
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	895376	Unreliable
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	0	895376	Unreliable
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	Suppressed	895376	Suppressed
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	0	895376	Unreliable
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	31	895376	3.5
+	"Tennessee"	"47"	"2018"	"2018"	"Opium"	"T40.0"	0	6770010	Unreliable
+	"Tennessee"	"47"	"2018"	"2018"	"Heroin"	"T40.1"	369	6770010	5.5
+	"Tennessee"	"47"	"2018"	"2018"	"Other opioids"	"T40.2"	518	6770010	7.7
+	"Tennessee"	"47"	"2018"	"2018"	"Methadone"	"T40.3"	70	6770010	1.0
+	"Tennessee"	"47"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	845	6770010	12.5
+	"Tennessee"	"47"	"2019"	"2019"	"Opium"	"T40.0"	0	6829174	Unreliable
+	"Tennessee"	"47"	"2019"	"2019"	"Heroin"	"T40.1"	386	6829174	5.7
+	"Tennessee"	"47"	"2019"	"2019"	"Other opioids"	"T40.2"	498	6829174	7.3
+	"Tennessee"	"47"	"2019"	"2019"	"Methadone"	"T40.3"	54	6829174	0.8
+	"Tennessee"	"47"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	1174	6829174	17.2
+	"Tennessee"	"47"	"2020"	"2020"	"Opium"	"T40.0"	0	6886834	Unreliable
+	"Tennessee"	"47"	"2020"	"2020"	"Heroin"	"T40.1"	334	6886834	4.8
+	"Tennessee"	"47"	"2020"	"2020"	"Other opioids"	"T40.2"	572	6886834	8.3
+	"Tennessee"	"47"	"2020"	"2020"	"Methadone"	"T40.3"	58	6886834	0.8
+	"Tennessee"	"47"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	2135	6886834	31.0
+	"Tennessee"	"47"	"2021"	"2021"	"Opium"	"T40.0"	0	6975218	Unreliable
+	"Tennessee"	"47"	"2021"	"2021"	"Heroin"	"T40.1"	168	6975218	2.4
+	"Tennessee"	"47"	"2021"	"2021"	"Other opioids"	"T40.2"	601	6975218	8.6
+	"Tennessee"	"47"	"2021"	"2021"	"Methadone"	"T40.3"	76	6975218	1.1
+	"Tennessee"	"47"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2834	6975218	40.6
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	6975218	Unreliable
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	89	6975218	1.3
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	474	6975218	6.8
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	67	6975218	1.0
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2873	6975218	41.2
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	6975218	Unreliable
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	25	6975218	0.4
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	259	6975218	3.7
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	24	6975218	0.3
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1870	6975218	26.8
+	"Texas"	"48"	"2018"	"2018"	"Opium"	"T40.0"	0	28701845	Unreliable
+	"Texas"	"48"	"2018"	"2018"	"Heroin"	"T40.1"	682	28701845	2.4
+	"Texas"	"48"	"2018"	"2018"	"Other opioids"	"T40.2"	485	28701845	1.7
+	"Texas"	"48"	"2018"	"2018"	"Methadone"	"T40.3"	117	28701845	0.4
+	"Texas"	"48"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	366	28701845	1.3
+	"Texas"	"48"	"2019"	"2019"	"Opium"	"T40.0"	0	28995881	Unreliable
+	"Texas"	"48"	"2019"	"2019"	"Heroin"	"T40.1"	748	28995881	2.6
+	"Texas"	"48"	"2019"	"2019"	"Other opioids"	"T40.2"	470	28995881	1.6
+	"Texas"	"48"	"2019"	"2019"	"Methadone"	"T40.3"	108	28995881	0.4
+	"Texas"	"48"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	439	28995881	1.5
+	"Texas"	"48"	"2020"	"2020"	"Opium"	"T40.0"	0	29360759	Unreliable
+	"Texas"	"48"	"2020"	"2020"	"Heroin"	"T40.1"	799	29360759	2.7
+	"Texas"	"48"	"2020"	"2020"	"Other opioids"	"T40.2"	566	29360759	1.9
+	"Texas"	"48"	"2020"	"2020"	"Methadone"	"T40.3"	128	29360759	0.4
+	"Texas"	"48"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1066	29360759	3.6
+	"Texas"	"48"	"2021"	"2021"	"Opium"	"T40.0"	Suppressed	29527941	Suppressed
+	"Texas"	"48"	"2021"	"2021"	"Heroin"	"T40.1"	751	29527941	2.5
+	"Texas"	"48"	"2021"	"2021"	"Other opioids"	"T40.2"	655	29527941	2.2
+	"Texas"	"48"	"2021"	"2021"	"Methadone"	"T40.3"	124	29527941	0.4
+	"Texas"	"48"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1878	29527941	6.4
+	"Texas"	"48"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	29527941	Unreliable
+	"Texas"	"48"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	591	29527941	2.0
+	"Texas"	"48"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	700	29527941	2.4
+	"Texas"	"48"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	138	29527941	0.5
+	"Texas"	"48"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	2487	29527941	8.4
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	29527941	Unreliable
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	271	29527941	0.9
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	395	29527941	1.3
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	63	29527941	0.2
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1604	29527941	5.4
+	"Utah"	"49"	"2018"	"2018"	"Opium"	"T40.0"	0	3161105	Unreliable
+	"Utah"	"49"	"2018"	"2018"	"Heroin"	"T40.1"	160	3161105	5.1
+	"Utah"	"49"	"2018"	"2018"	"Other opioids"	"T40.2"	294	3161105	9.3
+	"Utah"	"49"	"2018"	"2018"	"Methadone"	"T40.3"	41	3161105	1.3
+	"Utah"	"49"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	86	3161105	2.7
+	"Utah"	"49"	"2019"	"2019"	"Opium"	"T40.0"	0	3205958	Unreliable
+	"Utah"	"49"	"2019"	"2019"	"Heroin"	"T40.1"	142	3205958	4.4
+	"Utah"	"49"	"2019"	"2019"	"Other opioids"	"T40.2"	272	3205958	8.5
+	"Utah"	"49"	"2019"	"2019"	"Methadone"	"T40.3"	29	3205958	0.9
+	"Utah"	"49"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	96	3205958	3.0
+	"Utah"	"49"	"2020"	"2020"	"Opium"	"T40.0"	0	3249879	Unreliable
+	"Utah"	"49"	"2020"	"2020"	"Heroin"	"T40.1"	142	3249879	4.4
+	"Utah"	"49"	"2020"	"2020"	"Other opioids"	"T40.2"	228	3249879	7.0
+	"Utah"	"49"	"2020"	"2020"	"Methadone"	"T40.3"	19	3249879	Unreliable
+	"Utah"	"49"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	159	3249879	4.9
+	"Utah"	"49"	"2021"	"2021"	"Opium"	"T40.0"	0	3337975	Unreliable
+	"Utah"	"49"	"2021"	"2021"	"Heroin"	"T40.1"	146	3337975	4.4
+	"Utah"	"49"	"2021"	"2021"	"Other opioids"	"T40.2"	192	3337975	5.8
+	"Utah"	"49"	"2021"	"2021"	"Methadone"	"T40.3"	38	3337975	1.1
+	"Utah"	"49"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	202	3337975	6.1
+	"Utah"	"49"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	3337975	Unreliable
+	"Utah"	"49"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	119	3337975	3.6
+	"Utah"	"49"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	184	3337975	5.5
+	"Utah"	"49"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	20	3337975	0.6
+	"Utah"	"49"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	222	3337975	6.7
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	3337975	Unreliable
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	41	3337975	1.2
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	135	3337975	4.0
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	18	3337975	Unreliable
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	228	3337975	6.8
+	"Vermont"	"50"	"2018"	"2018"	"Opium"	"T40.0"	0	626299	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"Heroin"	"T40.1"	68	626299	10.9
+	"Vermont"	"50"	"2018"	"2018"	"Other opioids"	"T40.2"	20	626299	3.2
+	"Vermont"	"50"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	626299	Suppressed
+	"Vermont"	"50"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	106	626299	16.9
+	"Vermont"	"50"	"2019"	"2019"	"Opium"	"T40.0"	0	623989	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"Heroin"	"T40.1"	40	623989	6.4
+	"Vermont"	"50"	"2019"	"2019"	"Other opioids"	"T40.2"	22	623989	3.5
+	"Vermont"	"50"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	623989	Suppressed
+	"Vermont"	"50"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	102	623989	16.3
+	"Vermont"	"50"	"2020"	"2020"	"Opium"	"T40.0"	0	623347	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"Heroin"	"T40.1"	41	623347	6.6
+	"Vermont"	"50"	"2020"	"2020"	"Other opioids"	"T40.2"	31	623347	5.0
+	"Vermont"	"50"	"2020"	"2020"	"Methadone"	"T40.3"	16	623347	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	143	623347	22.9
+	"Vermont"	"50"	"2021"	"2021"	"Opium"	"T40.0"	0	645570	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"Heroin"	"T40.1"	24	645570	3.7
+	"Vermont"	"50"	"2021"	"2021"	"Other opioids"	"T40.2"	32	645570	5.0
+	"Vermont"	"50"	"2021"	"2021"	"Methadone"	"T40.3"	19	645570	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	208	645570	32.2
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	645570	Unreliable
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	23	645570	3.6
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	21	645570	3.3
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	30	645570	4.6
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	230	645570	35.6
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	645570	Unreliable
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	645570	Suppressed
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	12	645570	Unreliable
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	11	645570	Unreliable
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	162	645570	25.1
+	"Virginia"	"51"	"2018"	"2018"	"Opium"	"T40.0"	0	8517685	Unreliable
+	"Virginia"	"51"	"2018"	"2018"	"Heroin"	"T40.1"	534	8517685	6.3
+	"Virginia"	"51"	"2018"	"2018"	"Other opioids"	"T40.2"	260	8517685	3.1
+	"Virginia"	"51"	"2018"	"2018"	"Methadone"	"T40.3"	94	8517685	1.1
+	"Virginia"	"51"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	862	8517685	10.1
+	"Virginia"	"51"	"2019"	"2019"	"Opium"	"T40.0"	0	8535519	Unreliable
+	"Virginia"	"51"	"2019"	"2019"	"Heroin"	"T40.1"	538	8535519	6.3
+	"Virginia"	"51"	"2019"	"2019"	"Other opioids"	"T40.2"	253	8535519	3.0
+	"Virginia"	"51"	"2019"	"2019"	"Methadone"	"T40.3"	81	8535519	0.9
+	"Virginia"	"51"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	997	8535519	11.7
+	"Virginia"	"51"	"2020"	"2020"	"Opium"	"T40.0"	0	8590563	Unreliable
+	"Virginia"	"51"	"2020"	"2020"	"Heroin"	"T40.1"	504	8590563	5.9
+	"Virginia"	"51"	"2020"	"2020"	"Other opioids"	"T40.2"	295	8590563	3.4
+	"Virginia"	"51"	"2020"	"2020"	"Methadone"	"T40.3"	89	8590563	1.0
+	"Virginia"	"51"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1689	8590563	19.7
+	"Virginia"	"51"	"2021"	"2021"	"Opium"	"T40.0"	0	8642274	Unreliable
+	"Virginia"	"51"	"2021"	"2021"	"Heroin"	"T40.1"	402	8642274	4.7
+	"Virginia"	"51"	"2021"	"2021"	"Other opioids"	"T40.2"	296	8642274	3.4
+	"Virginia"	"51"	"2021"	"2021"	"Methadone"	"T40.3"	107	8642274	1.2
+	"Virginia"	"51"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	2075	8642274	24.0
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	8642274	Unreliable
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	246	8642274	2.8
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	223	8642274	2.6
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	74	8642274	0.9
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1980	8642274	22.9
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	8642274	Unreliable
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	62	8642274	0.7
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	68	8642274	0.8
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	34	8642274	0.4
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	881	8642274	10.2
+	"Washington"	"53"	"2018"	"2018"	"Opium"	"T40.0"	0	7535591	Unreliable
+	"Washington"	"53"	"2018"	"2018"	"Heroin"	"T40.1"	340	7535591	4.5
+	"Washington"	"53"	"2018"	"2018"	"Other opioids"	"T40.2"	230	7535591	3.1
+	"Washington"	"53"	"2018"	"2018"	"Methadone"	"T40.3"	94	7535591	1.2
+	"Washington"	"53"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	224	7535591	3.0
+	"Washington"	"53"	"2019"	"2019"	"Opium"	"T40.0"	0	7614893	Unreliable
+	"Washington"	"53"	"2019"	"2019"	"Heroin"	"T40.1"	354	7614893	4.6
+	"Washington"	"53"	"2019"	"2019"	"Other opioids"	"T40.2"	217	7614893	2.8
+	"Washington"	"53"	"2019"	"2019"	"Methadone"	"T40.3"	76	7614893	1.0
+	"Washington"	"53"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	342	7614893	4.5
+	"Washington"	"53"	"2020"	"2020"	"Opium"	"T40.0"	0	7693612	Unreliable
+	"Washington"	"53"	"2020"	"2020"	"Heroin"	"T40.1"	397	7693612	5.2
+	"Washington"	"53"	"2020"	"2020"	"Other opioids"	"T40.2"	245	7693612	3.2
+	"Washington"	"53"	"2020"	"2020"	"Methadone"	"T40.3"	107	7693612	1.4
+	"Washington"	"53"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	681	7693612	8.9
+	"Washington"	"53"	"2021"	"2021"	"Opium"	"T40.0"	0	7738692	Unreliable
+	"Washington"	"53"	"2021"	"2021"	"Heroin"	"T40.1"	351	7738692	4.5
+	"Washington"	"53"	"2021"	"2021"	"Other opioids"	"T40.2"	311	7738692	4.0
+	"Washington"	"53"	"2021"	"2021"	"Methadone"	"T40.3"	120	7738692	1.6
+	"Washington"	"53"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1231	7738692	15.9
+	"Washington"	"53"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	7738692	Unreliable
+	"Washington"	"53"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	165	7738692	2.1
+	"Washington"	"53"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	245	7738692	3.2
+	"Washington"	"53"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	95	7738692	1.2
+	"Washington"	"53"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1920	7738692	24.8
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	7738692	Unreliable
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	60	7738692	0.8
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	165	7738692	2.1
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	105	7738692	1.4
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	1826	7738692	23.6
+	"West Virginia"	"54"	"2018"	"2018"	"Opium"	"T40.0"	0	1805832	Unreliable
+	"West Virginia"	"54"	"2018"	"2018"	"Heroin"	"T40.1"	198	1805832	11.0
+	"West Virginia"	"54"	"2018"	"2018"	"Other opioids"	"T40.2"	234	1805832	13.0
+	"West Virginia"	"54"	"2018"	"2018"	"Methadone"	"T40.3"	29	1805832	1.6
+	"West Virginia"	"54"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	569	1805832	31.5
+	"West Virginia"	"54"	"2019"	"2019"	"Opium"	"T40.0"	0	1792147	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"Heroin"	"T40.1"	144	1792147	8.0
+	"West Virginia"	"54"	"2019"	"2019"	"Other opioids"	"T40.2"	191	1792147	10.7
+	"West Virginia"	"54"	"2019"	"2019"	"Methadone"	"T40.3"	14	1792147	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	587	1792147	32.8
+	"West Virginia"	"54"	"2020"	"2020"	"Opium"	"T40.0"	0	1784787	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"Heroin"	"T40.1"	142	1784787	8.0
+	"West Virginia"	"54"	"2020"	"2020"	"Other opioids"	"T40.2"	291	1784787	16.3
+	"West Virginia"	"54"	"2020"	"2020"	"Methadone"	"T40.3"	42	1784787	2.4
+	"West Virginia"	"54"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1073	1784787	60.1
+	"West Virginia"	"54"	"2021"	"2021"	"Opium"	"T40.0"	0	1782959	Unreliable
+	"West Virginia"	"54"	"2021"	"2021"	"Heroin"	"T40.1"	41	1782959	2.3
+	"West Virginia"	"54"	"2021"	"2021"	"Other opioids"	"T40.2"	215	1782959	12.1
+	"West Virginia"	"54"	"2021"	"2021"	"Methadone"	"T40.3"	32	1782959	1.8
+	"West Virginia"	"54"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1221	1782959	68.5
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	1782959	Unreliable
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	27	1782959	1.5
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	159	1782959	8.9
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	29	1782959	1.6
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1137	1782959	63.8
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	1782959	Unreliable
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	1782959	Suppressed
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	100	1782959	5.6
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	23	1782959	1.3
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	798	1782959	44.8
+	"Wisconsin"	"55"	"2018"	"2018"	"Opium"	"T40.0"	0	5813568	Unreliable
+	"Wisconsin"	"55"	"2018"	"2018"	"Heroin"	"T40.1"	335	5813568	5.8
+	"Wisconsin"	"55"	"2018"	"2018"	"Other opioids"	"T40.2"	257	5813568	4.4
+	"Wisconsin"	"55"	"2018"	"2018"	"Methadone"	"T40.3"	57	5813568	1.0
+	"Wisconsin"	"55"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	516	5813568	8.9
+	"Wisconsin"	"55"	"2019"	"2019"	"Opium"	"T40.0"	0	5822434	Unreliable
+	"Wisconsin"	"55"	"2019"	"2019"	"Heroin"	"T40.1"	292	5822434	5.0
+	"Wisconsin"	"55"	"2019"	"2019"	"Other opioids"	"T40.2"	243	5822434	4.2
+	"Wisconsin"	"55"	"2019"	"2019"	"Methadone"	"T40.3"	57	5822434	1.0
+	"Wisconsin"	"55"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	665	5822434	11.4
+	"Wisconsin"	"55"	"2020"	"2020"	"Opium"	"T40.0"	Suppressed	5832655	Suppressed
+	"Wisconsin"	"55"	"2020"	"2020"	"Heroin"	"T40.1"	269	5832655	4.6
+	"Wisconsin"	"55"	"2020"	"2020"	"Other opioids"	"T40.2"	286	5832655	4.9
+	"Wisconsin"	"55"	"2020"	"2020"	"Methadone"	"T40.3"	74	5832655	1.3
+	"Wisconsin"	"55"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	1086	5832655	18.6
+	"Wisconsin"	"55"	"2021"	"2021"	"Opium"	"T40.0"	0	5895908	Unreliable
+	"Wisconsin"	"55"	"2021"	"2021"	"Heroin"	"T40.1"	168	5895908	2.8
+	"Wisconsin"	"55"	"2021"	"2021"	"Other opioids"	"T40.2"	305	5895908	5.2
+	"Wisconsin"	"55"	"2021"	"2021"	"Methadone"	"T40.3"	61	5895908	1.0
+	"Wisconsin"	"55"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	1315	5895908	22.3
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	5895908	Unreliable
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	128	5895908	2.2
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	258	5895908	4.4
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	50	5895908	0.8
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	1333	5895908	22.6
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	5895908	Unreliable
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	82	5895908	1.4
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	118	5895908	2.0
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	25	5895908	0.4
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	699	5895908	11.9
+	"Wyoming"	"56"	"2018"	"2018"	"Opium"	"T40.0"	0	577737	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"Heroin"	"T40.1"	Suppressed	577737	Suppressed
+	"Wyoming"	"56"	"2018"	"2018"	"Other opioids"	"T40.2"	30	577737	5.2
+	"Wyoming"	"56"	"2018"	"2018"	"Methadone"	"T40.3"	Suppressed	577737	Suppressed
+	"Wyoming"	"56"	"2018"	"2018"	"Other synthetic narcotics"	"T40.4"	10	577737	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Opium"	"T40.0"	0	578759	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Heroin"	"T40.1"	12	578759	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Other opioids"	"T40.2"	31	578759	5.4
+	"Wyoming"	"56"	"2019"	"2019"	"Methadone"	"T40.3"	Suppressed	578759	Suppressed
+	"Wyoming"	"56"	"2019"	"2019"	"Other synthetic narcotics"	"T40.4"	18	578759	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Opium"	"T40.0"	0	582328	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Heroin"	"T40.1"	12	582328	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Other opioids"	"T40.2"	35	582328	6.0
+	"Wyoming"	"56"	"2020"	"2020"	"Methadone"	"T40.3"	Suppressed	582328	Suppressed
+	"Wyoming"	"56"	"2020"	"2020"	"Other synthetic narcotics"	"T40.4"	27	582328	4.6
+	"Wyoming"	"56"	"2021"	"2021"	"Opium"	"T40.0"	0	578803	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"Heroin"	"T40.1"	14	578803	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"Other opioids"	"T40.2"	26	578803	4.5
+	"Wyoming"	"56"	"2021"	"2021"	"Methadone"	"T40.3"	Suppressed	578803	Suppressed
+	"Wyoming"	"56"	"2021"	"2021"	"Other synthetic narcotics"	"T40.4"	47	578803	8.1
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	"Opium"	"T40.0"	0	578803	Unreliable
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	"Heroin"	"T40.1"	Suppressed	578803	Suppressed
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	"Other opioids"	"T40.2"	31	578803	5.4
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	"Methadone"	"T40.3"	Suppressed	578803	Suppressed
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	"Other synthetic narcotics"	"T40.4"	64	578803	11.1
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	"Opium"	"T40.0"	0	578803	Unreliable
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	"Heroin"	"T40.1"	Suppressed	578803	Suppressed
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	"Other opioids"	"T40.2"	25	578803	4.3
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	"Methadone"	"T40.3"	Suppressed	578803	Suppressed
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	"Other synthetic narcotics"	"T40.4"	44	578803	7.6
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"Group By: Residence State; Year; Multiple Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Nov 9, 2023 10:40:38 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 9, 2023 10:40:38"
+"AM"
+"---"
+
+
+
+
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
+"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
+"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
+"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"5. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"6. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"8. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified as"
+"external causes of injury (ICD-10 codes V01-Y89) or sudden deaths (ICD-10 codes R95 and R96) have the cause of death labeled as"
+"'Data not shown due to 6 month lag to account for delays in death certificate completion for certain causes of death.' For these"
+"deaths occurring 24 weeks prior to the final date in the provisional data, the number of deaths and related statistics are not"
+"available by specific cause of death for ICD-10 codes V01-Y89, R95 or R96."
+"9. Deaths occurring through October 28, 2023 as of November 05, 2023."
