@@ -1,0 +1,138 @@
+---
+title: "Rotella Individual Component"
+author: "Emily Rotella"
+date: "2023-12-04"
+output:
+  html_document:
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+library(tidyverse)
+library(ggplot2)
+library(maps)
+library(gganimate)
+library(usmap)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+my_data<-read_delim("../Documents/PUBHLTH460/data/Provisional Mortality Statistics, 2018 through Last Week (1).txt")
+my_data<-my_data%>%
+  select(-Year, -Notes)%>%
+  rename("Year"= "Year Code")
+my_data<-
+  filter(my_data, Year!=2023)
+my_data<-my_data%>%
+  rename("crude_rate"="Crude Rate")
+my_data<-filter(my_data, crude_rate != "Unreliable" &
+         crude_rate != "Suppressed") 
+my_data<-transform(my_data,
+          Deaths=as.numeric(Deaths))
+my_data<-transform(my_data, crude_rate=as.numeric(crude_rate))
+
+my_data$Residence.State=toupper(my_data$Residence.State)
+
+```
+```{r}
+census<-read_delim("../Documents/PUBHLTH460/data/Census info.txt")
+census<-census%>%
+select(-Notes)
+census<-census%>%
+rename("Residence.State"="Residence State")
+census<-census%>%
+  rename("crude.rate"="Crude Rate")
+census<-na.omit(census)
+census<-census%>%
+  select(-Deaths, -Population, -crude.rate)
+census$Residence.State=toupper(census$Residence.State)
+final_tbl<-left_join(my_data, census, join_by("Residence.State"=="Residence.State"))
+final_tbl<-final_tbl%>%
+  rename("Region"="Residence Census Region")
+
+```
+The overall purpose of my project was to gain a more in-depth understanding of opioid mortality in the United States. I tried to isolate which kind of opioid was driving opioid mortality rates to determine if it was heroin, methadone, synthetic narcotics, etc. Data was derived from the CDC Wonderbase. The selected keywords were Census Region, State, Ten-Year Age Group, Year, ICD-10 Codes, T-40.0, T-40.1, T-40.2, T-40.3, T-40.4, and Single Race 6. The data was then filtered to remove data from the year 2023 as it had not ended yet so data would be provisional. Additionally, non-numeric values such as “suppressed” and “unreliable” were removed from the crude mortality rate column. Because the values “suppressed” and “unreliable” turned the crude mortality rate column into a character variable, it was then converted to become a numeric variable.  The second data set used to generate the heatmap was also derived from the CDC Wonderbase, and the selected terms were residence census region, residence census region code, residence state, deaths, population, and residence state code. To prevent redundancy and to make left joining easier, the columns, deaths, population, and crude rates were removed from the second data set. This second data set was then left joined to the first by the variable “Residence.State.”  My initial hypotheses were that opioid mortality rates would increase from 2018-2022, that synthetic narcotics would have the highest rates of opioid mortality, and that states in the South would have the highest opioid mortality rates. 
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+highest_rates<-final_tbl%>%
+  group_by(Residence.State, Region, Year)%>%
+  summarise(Multiple.Cause.of.death, crude_rate)%>%
+  arrange(desc(crude_rate))%>%
+  group_by(Residence.State)%>%
+    filter(crude_rate==max(crude_rate) & row_number()==1 )
+highest_rates
+```
+
+
+ To start, I filtered each state so that they would display the highest rate of mortality recorded and arranged it in descending order so that the states with the highest rates would be displayed at the top. The results of my initial query are recorded in this table. The purpose of this table is to demonstrate the highest rates of opioid-related mortality that each state has, and the cause of death (type of opioid) that the mortality rate can be attributed to. All but one of the highest mortality rates in each state can be attributed to other synthetic narcotics, with the highest crude rate being in West Virginia, with 68.5 synthetic narcotic deaths per 100,000 individuals. This confirms my initial hypothesis that synthetic narcotics are driving opioid-related mortality rates.
+
+```{r}
+worst_states<-final_tbl%>%
+  filter(Residence.State=="DISTRICT OF COLUMBIA" |
+       Residence.State=="WEST VIRGINIA"|
+         Residence.State=="MAINE"|
+         Residence.State=="TENNESSEE" |
+      Residence.State=="DELAWARE")
+worst_states%>%
+  filter(Multiple.Cause.of.death=="Other synthetic narcotics")%>%
+  ggplot(aes(x=Year, y=crude_rate, color=Residence.State))+
+           geom_point()+
+  geom_smooth()+
+  facet_wrap(vars(Residence.State))
+```
+This graph demonstrates trends in mortality attributed to "Other Synthetic narcotics" in the states with the highest rates of opioid-related mortality. This was done to expand upon the previous table, which only includes the highest mortality rate in a given year. As a result, the previous table is only a snapshot, not a definitive overview. The goal was to see if synthetic narcotic mortality rates are continuously an issue, or if the results observed were just a passing anomaly/were no longer a major threat to human lives. Each line in the graph represents one state's crude mortality rate at a given time (number of deaths per 100,000 individuals). While rates appear to be plateauing somewhat in 2022, across the board there is a net increase in the synthetic narcotic mortality rate from 2018-2022 in the states with the highest opioid mortality rates. Because these states have some of the highest rates of opioid-related mortality, they will be target areas for policy recommendations. Notably, these also begin to confirm my initial hypothesis that opioid mortality rates are increasing from 2018-2022, at the very least within the states most affected. 
+
+
+```{r}
+z<-ggplot(final_tbl, aes(x= Year, y=crude_rate, color=Multiple.Cause.of.death))+
+  geom_point()+
+  facet_wrap(vars(Region))+
+  geom_smooth(se=FALSE)
+plotly::ggplotly(z)
+
+```
+
+The previous graph addressed trends in the worst states, so this analysis was conducted to see if synthetic narcotic mortality rates were increasing across all regions in the United States, not just in the states struggling the most. Each line colored represents the crude rate of opioid deaths per 100,000 individuals attributed to a specific class of opioid (For example, the red line observed is the crude mortality rate for Heroin). Each dot represents a specific state within a specific region (notably, the graph is also faceted by region.) The conclusion was that synthetic narcotic mortality rates are consistently higher than other opioid mortality rates in all four regions of the United States, and additionally, these rates were getting worse from 2018-2022. Also notable was that while the Northeast had the highest rates of synthetic opioid mortality in 2022 compared to the South (32.2 deaths per 100,000 people vs 26.5 deaths per 100,000 people in the South), the South had more frequent and extreme outliers. 
+ 
+
+
+```{r}
+library(ggplot2)
+all_states<-map_data("state")
+all_states$region=toupper(all_states$region)
+all_states<-all_states%>%
+rename("Residence.State"="region")
+```
+
+```{r}
+heatmap<-merge(final_tbl, all_states, by="Residence.State")
+
+ synthetic<- heatmap%>%
+    filter(Multiple.Cause.of.death=="Other synthetic narcotics")
+```
+
+```{r}
+p<-ggplot(synthetic, aes(long, lat, fill=crude_rate, group=group)) +
+  geom_polygon(color="black")+
+   scale_fill_continuous(
+  low = "grey",high = "red")+
+    labs(fill = "Synthetic Opioid Mortality Rate")+
+  ggtitle("synthetic Opioid Mortality by State", subtitle= "Deaths per 100,000 people")
+p+labs(title="Year: {round(frame_time)}")+
+  transition_time(Year)
+```
+The purpose of this animation is to put the previous analyses together into something more cohesive. We have previously established that synthetic mortality rates are increasing in the states that have the highest opioid mortality rates and in all regions of the United States. The synthetic mortality rate is recorded as "x deaths per 100,000 people." This provides an animated version of the synthetic opioid mortality rate in the United States from 2018-2022. There are 50 states present in the graph (notably, Alaska is missing). The darker red the state, the higher the mortality rate, with ranges from 0 deaths per 100,000 individuals to 60+ deaths per 100,000 individuals. From observing the choropleth map, it is evident that synthetic opioid mortality rates are increasing across the United States, with some states being affected more than others. From beginning to end, the animation demonstrates that states without data initially are beginning to struggle with opioid-related mortality attributed to synthetic opioids, states that were struggling initially (such as West Virginia) are appearing to get worse, and states who weren’t struggling initially are starting to see an increase in synthetic opioid mortality rates. Overall the purpose of this individual assignment was to identify several key components of the current opioid epidemic- that being whether it was actually a problem/getting worse to begin with, the states/regions most impacted, and the type of opioid that was the most problematic. Utilizing a variety of graphical methods it was determined opioid mortality rates were increasing from 2018-2022, and that the southern states were struggling the most (Although they didn’t have the highest crude rate of synthetic opioid mortality, ⅘ of the states with the highest opioid mortality rates were in the South. Additionally, the South had more outliers graphed by region), and synthetic opioid deaths were driving these mortality rates. Taking all of this into consideration, policy recommendations should have an emphasis on equity and resources should be allocated to areas struggling the most with synthetic opioid mortality. Some policies to consider include increasing the distribution of Narcan to populations with the highest mortality rates to prevent fatal overdose. Additionally, another policy to consider is to offer health education classes in community centers/community areas in struggling regions to educate the population on the dangers of abusing synthetic opioids and how to react/administer Narcan in the event of an overdose. Finally, expanding access to substance abuse programs in regions where opioid deaths are higher so that people struggling with addiction have opportunities to stop using synthetic opioids is another significant policy that should be taken into consideration.
+
