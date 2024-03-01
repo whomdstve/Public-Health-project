@@ -1,0 +1,42 @@
+# Opioid Mortality Trends Analysis
+
+## Overview
+
+This project aims to analyze trends in opioid mortality in the United States over the last decade using R. In the United States, opioid misuse and overdose deaths have become significant public health concerns in the past few decades. Understanding what drives opioid mortality and identifying areas of concern can aid policy makers in creating evidence based strategies for prevention and intervention.
+
+## Dataset
+
+The analysis was conducted using publicly available data from the CDC wonderbase. The dataset provides provisional mortality information from 2018-2022 and contains variables including geographic location of death, date, multiple cause of death codes, number of deaths, and crude rates of mortality.
+
+## Analysis
+
+The analysis is conducted using R programming language and various statistical techniques. The primary objectives of the analysis include:
+
+- Exploratory data analysis to understand the distribution and patterns of opioid-related deaths.
+- Trend analysis to identify factors driving mortality trends
+- Demographic analysis to explore differences in opioid mortality among different age groups, genders, and geographic regions.
+
+
+## Dependencies
+
+The analysis requires the following R packages:
+
+- `tidyverse`
+- `ggplot2`
+- `gganimate`
+- `maps`
+- `dplyr`
+- `readr`
+
+## Usage
+
+To reproduce the analysis:
+
+1. Clone this repository to your local machine.
+2. Install the necessary R packages mentioned in the Dependencies section.
+3. Run the R scripts provided in the repository to perform the analysis.
+4. Explore the generated visualizations and findings.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
